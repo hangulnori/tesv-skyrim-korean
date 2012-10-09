@@ -1,0 +1,1004 @@
+# Unofficial The Elder Scrolls V: Skyrim Korean Language Pack
+msgid ""
+msgstr ""
+"Project-Id-Version: TESV: Skyrim 1.7.7.0.6\n"
+"Report-Msgid-Bugs-To: https://github.com/hangulnori/tesv-skyrim-korean/issues\n"
+"POT-Creation-Date: 2012-03-14 15:54+0100\n"
+"PO-Revision-Date: 2012-09-26 01:35+0900\n"
+"Last-Translator: Jiyoon Jang <freshworks@gmail.com>\n"
+"Language-Team: Hangulnori\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 366
+#, fuzzy
+msgctxt "366"
+msgid ""
+"I've checked with my court and apparently you're fully eligible... there's "
+"nothing standing in the way of presenting you the title."
+msgstr ""
+"대신들과 의논한 결과 자넨 충분히 자격이 있어... 지위를 받는데 어떤 걸림돌도 "
+"없을걸세."
+
+#: 2091
+#, fuzzy
+msgctxt "2091"
+msgid ""
+"\"I've made up my mind, even if my advisors are still squabbling. I'm "
+"sending you to Windhelm.\""
+msgstr ""
+"\"나는 결심했네, 나의 조언자가 아직도 궁시렁거리고 있긴하지만 자네를 윈드헬름"
+"으로 보내야겠어. \""
+
+#: 3970
+#, fuzzy
+msgctxt "3970"
+msgid ""
+"I can provide you with help for her minions though.  This should help you "
+"deal with the Catacombs themselves. "
+msgstr ""
+"여왕 부하들 정리라면 도와줄수 있다만. 그러면 지하묘지 일에 집중할 수 있겠지."
+
+#: 4136
+#, fuzzy
+msgctxt "4136"
+msgid ""
+"\"Oh don't pretend to be modest. I'm talking about your new role as "
+"champion. Apparently, you've taken my people under your wing.\""
+msgstr ""
+"\"오, 부디 사양치마시오. 나는 투사로서 당신의 새로운 역할에 대해 말하는 거"
+"요. 분명히, 당신은 내 사람들을 보호해주었소.\""
+
+#: 4273
+#, fuzzy
+msgctxt "4273"
+msgid ""
+"\"Well, well. Aren't we the overachiever. Three possibilities, three "
+"victims. Must have been one of them, right? So why take chances...\""
+msgstr ""
+"\"이거, 이거. 기대 이상인걸. 세 개의 가능성과 세 명의 희생양. 그 중 한 명이 "
+"범인이라, 이건가? 굳이 머리 아프게 고를 필요 없다 이거네...\""
+
+#: 4432
+#, fuzzy
+msgctxt "4432"
+msgid ""
+"\"Ah, the feisty goodwife. Quite the mouth on her. Someone must have wanted "
+"her dead... right?\""
+msgstr ""
+"\"아, 그 거침없는 여편네라. 입버릇이 나쁜 여자였지. 누군가 그녀의 죽음을 바랬"
+"을만 해... 안그래?\""
+
+#: 4437
+#, fuzzy
+msgctxt "4437"
+msgid "When has any good ever come from talking to the Empire?"
+msgstr "대화가 통하는 상대라고 생각하는가?"
+
+#: 4579
+#, fuzzy
+msgctxt "4579"
+msgid ""
+"\"Therefore, by my authority as Jarl, I pronounce you Thane of Riften and "
+"award you all of the benefits befitting your station. Congratulations.\""
+msgstr ""
+"\"그래서 나는 영주의 권한으로 당신을 리프튼의 군위로 임명하고, 지위에 합당한 "
+"권한을 줄 것입니다. 축하합니다.\""
+
+#: 6004
+#, fuzzy
+msgctxt "6004"
+msgid ""
+"\"I do hope mummy and father come to get me soon. Ever since that Aventus "
+"boy left, this place has gone mad.\""
+msgstr ""
+"\"빨리 엄마랑 아빠가 나를 데리러 오길 바래요. 아벤투스가 없어지고 나서부터, "
+"이곳은 이상하게 변해버렸어요.\""
+
+#: 7611
+#, fuzzy
+msgctxt "7611"
+msgid ""
+"I don't know how you convinced Ulfric to talk to the Empire. Worse than a "
+"waste of time if you ask me."
+msgstr "자네가 어떻게 울프릭을 제국과 대화하도록 설득했는지는 모르지만"
+
+#: 8312
+#, fuzzy
+msgctxt "8312"
+msgid ""
+"\"Well, I'm just surprised the Gourmet is a Redguard. I had you pegged for a "
+"Wood Elf, honestly. You know, because of your use of...\""
+msgstr ""
+"\"그게, 그 요리왕이 레드가드였다니 좀 놀랍네요. 분명 우드엘프일 거라 생각했었"
+"거든요. 아시잖아요, 선생님이 주로 쓰시는...\""
+
+#: 9792
+#, fuzzy
+msgctxt "9792"
+msgid "Just get out of here."
+msgstr "썩 꺼져버려!"
+
+#: 11442
+#, fuzzy
+msgctxt "11442"
+msgid ""
+"You're a Nord! I never would have guessed it! But where in the world did you "
+"learn to cook like that? Here in Skyrim? Or maybe somewhere less..."
+msgstr ""
+"노드시군요! 전혀 상상도 못했어요! 근데 대체 어디서 요리를 배우셨나요? 스카이"
+"림에서요? 아니면 다른 곳에서..."
+
+#: 13649
+#, fuzzy
+msgctxt "13649"
+msgid ""
+"\"If you think you can steal my throne by winning the hearts of the people, "
+"that's where you're wrong. Keep that in mind.\""
+msgstr ""
+"\"만일 사람들의 마음을 얻어 내 지위를 빼앗으려 한다면, 그건 당신이 실수하는 "
+"거에요. 명심하세요.\""
+
+#: 14558
+#, fuzzy
+msgctxt "14558"
+msgid ""
+"She was responsible for the Empire's near collapse almost five hundred years "
+"ago. I believe I have a book about her..."
+msgstr ""
+"500년 전에 제국이 붕괴될 뻔 했던 건 그녀가 한 짓이네. 누군가 그녀에 관한 책"
+"을 가지고 있었을텐데..."
+
+#: 15083
+#, fuzzy
+msgctxt "15083"
+msgid "We can talk about that once this dragon is dealt with."
+msgstr "그 이야기는 드래곤이 처리되면 하도록 하지."
+
+#: 15085
+#, fuzzy
+msgctxt "15085"
+msgid "You damn well better."
+msgstr "현명한 판단이군."
+
+#: 15545
+#, fuzzy
+msgctxt "15545"
+msgid ""
+"\"Aventus Aretino? He only lived here for awhile. I think his mother got "
+"sick and died or something. Anyway, he's gone now. He ran away.\""
+msgstr ""
+"\"아벤투스 아레티노? 여기에 살았던 적이 있어요. 제 생각에는 걔 어머니가 아프"
+"셨거나 돌아가셨거나 했던 것 같아요. 어쨌거나, 그 애는 지금 없어요. 도망가 버"
+"렸거든요.\""
+
+#: 16074
+#, fuzzy
+msgctxt "16074"
+msgid ""
+"No doubt requesting to garrison his men in my castle. How many times must I "
+"deny him?"
+msgstr ""
+"아마도 수비대에게 그의 사람을 내 성안에 들게 해달라 요청할걸세. 내가 몇번이"
+"나 그의 요청을 거부해야 할까?"
+
+#: 16775
+#, fuzzy
+msgctxt "16775"
+msgid ""
+"\"As to Potema herself, find what's left of her body, likely a skeleton. "
+"Remove it from the Catacombs and bring it back to be sanctified by Arkay.\""
+msgstr ""
+"포테마의 유해를 꼭 찾아야 한다네. 아마 해골이겠지. 지하묘지에서 가지고 나오"
+"게. 알케이의 이름으로 정화 해야하네"
+
+#: 17426
+#, fuzzy
+msgctxt "17426"
+msgid ""
+"\"Hmm. The fearless wife and mother, and the underhanded Khajiit. Had to be "
+"one of them, right? Interesting choice.\""
+msgstr ""
+"\"흐음. 겁없는 미망인과 비밀스런 카짓이라. 둘 중 한 명이었을 거다, 이건가? 흥"
+"미로운 선택이네.\""
+
+#: 17791
+#, fuzzy
+msgctxt "17791"
+msgid ""
+"\"But Samuel told me he's back home in Windhelm, and did some kind of dark "
+"ritual. He summoned killers to murder old Grelod. He's saved us all.\""
+msgstr ""
+"\"새뮤얼이 말했는데, 그애가 윈드헬름으로 돌아가 어둠의 의식을 치르고 있다고 "
+"했어요. 정말 암살자를 불러왔고, 그렐로드를 죽였어요! 그가 우리 모두를 구한 거"
+"죠.\""
+
+#: 18104
+#, fuzzy
+msgctxt "18104"
+msgid "That's it! Wonderful! I knew I could count on you."
+msgstr "그래! 훌륭해! 네가 해 낼 줄 알았어!"
+
+#: 19370
+#, fuzzy
+msgctxt "19370"
+msgid ""
+"\"No... no, that is all. Now... now please. I find myself very weary all of "
+"sudden.\""
+msgstr ""
+"\"아니... 없어요, 이게 다군요. 그럼... 그럼 이만. 갑자기 굉장히 피곤하군요.\""
+
+#: 20680
+#, fuzzy
+msgctxt "20680"
+msgid "We can talk about that once this dragon is dealt with."
+msgstr "그 이야기는 드래곤이 처리되면 하도록 하지."
+
+#: 21703
+#, fuzzy
+msgctxt "21703"
+msgid ""
+"Then allow me to officially welcome you to Riften. You'll make a fine "
+"addition to our city."
+msgstr ""
+"그럼 당신을 정식으로 리프튼에 맞이하겠어요. 이걸로 당신도 우리 도시의 시민입"
+"니다."
+
+#: 22763
+#, fuzzy
+msgctxt "22763"
+msgid "I suppose it's time I gave him an answer..."
+msgstr "이제 대답을 해 줘야 할 시간이 된 것 같군..."
+
+#: 22765
+#, fuzzy
+msgctxt "22765"
+msgid "Ah yes."
+msgstr "아 그렇구나."
+
+#: 22771
+#, fuzzy
+msgctxt "22771"
+msgid "\"Did he now? The man is persistent, I'll give him that.\""
+msgstr "또 왔나? 끈질긴 건 알아줘야겠군."
+
+#: 22900
+#, fuzzy
+msgctxt "22900"
+msgid "Deliver this axe to Ulfric Stormcloak."
+msgstr "이 도끼를 울프릭 스톰클록에게 돌려주게나."
+
+#: 23221
+#, fuzzy
+msgctxt "23221"
+msgid ""
+"I don't have any money to give you. but I can show you a few tricks I "
+"learned playing for the Winterhold wizards."
+msgstr ""
+"너에게 줄 충분한 돈이 내겐 없어. 하지만 윈터홀드에 있는 마법사한테 배운 몇가"
+"지 기술을 알려줄게."
+
+#: 23319
+#, fuzzy
+msgctxt "23319"
+msgid ""
+"\"Word out on the street is that he went home to Windhelm, and people have "
+"heard strange chanting coming from his house. Looks like he really did it!\""
+msgstr ""
+"\"소문을 듣기를, 그는 윈드헬름의 자기 집으로 돌아간뒤, 집에서 이상한 노래를 "
+"불렀다고 했는데. 진짜로 그짓을 한 거 같아요!\""
+
+#: 23510
+#, fuzzy
+msgctxt "23510"
+msgid ""
+"\"Well, I just never expected the Gourmet to be a Breton. It almost seems "
+"too obvious. Some of the greatest cooks have been Bretons, and...\""
+msgstr ""
+"\"글쎄요, 그냥 요리왕이 브리튼일 거란 생각은 못했어요. 너무 뻔하다고 생각했거"
+"든요. 유명한 요리사 중에는 브리튼이 몇 명이나 있었고...\""
+
+#: 24028
+#, fuzzy
+msgctxt "24028"
+msgid ""
+"\"The timid warrior and the sly Khajiit. Must have been one or the other, "
+"right?\""
+msgstr "\"겁쟁이 전사와 약아빠진 카짓. 둘 중 한 명이었을 거다, 이건가?\""
+
+#: 24313
+#, fuzzy
+msgctxt "24313"
+msgid ""
+"\"Yes. I had Falk call you back because you were at the summoning, you have "
+"a connection to Potema now. You must deal with her.\""
+msgstr ""
+"그렇네. 내가 소환의식을 막아준 자네를 펄크에게 다시 불러오라 시켰네. 지금 자"
+"네는 포테마와 인연이 생긴거야. 혼자서 여왕에게 맞서야만 하네."
+
+#: 24797
+#, fuzzy
+msgctxt "24797"
+msgid ""
+"\"I expect that you'll distance yourself from the affairs of state. In other "
+"words, keep your nose out of my business and we'll do just fine.\""
+msgstr ""
+"나는 당신이 내전에 대해선 거리를 둘 것을 바라고 있어요. 다시 말해서 당신이 그"
+"것에 대해 관심을 끈다면 우리 사이는 계속 원만할 겁니다."
+
+#: 24934
+#, fuzzy
+msgctxt "24934"
+msgid ""
+"\"Oh ho. The whimpering Nord, eh? Yes, yes, I can see how you'd come to that "
+"conclusion. Interesting choice.\""
+msgstr ""
+"\"오 호. 울보 노드라, 응? 과연, 그래. 왜 그런 결론을 내렸는지 알겠네. 흥미로"
+"운 선택이야.\""
+
+#: 25715
+#, fuzzy
+msgctxt "25715"
+msgid ""
+"\"Hmph. Yes. Yes, I surely can. It's not something I do lightly, mind you, "
+"and it's not as specific as you might want. But yes. I will do this for you."
+"\""
+msgstr ""
+"\"흠. 그래요. 물론 봐 줄 수 있죠. 하지만 이걸 알아 둬요. 난 이 일을 가벼운 마"
+"음으로 하는 것도 아니고, 당신이 원하는 미래가 아닐 지도 몰라요. 그럼, 당신 미"
+"래를 한번 볼까요.\""
+
+#: 25771
+#, fuzzy
+msgctxt "25771"
+msgid ""
+"\"Good. Being at the summoning created a connection to Potema, you are the "
+"one to do this. \""
+msgstr ""
+"\"좋아. 소환의식중에 포테마와 만난 덕에 자네에게는 포테마와 인연이 생겼으니, "
+"이 일을 끝맺을 수 있는 건 자네밖에 없네. \""
+
+#: 27209
+#, fuzzy
+msgctxt "27209"
+msgid ""
+"\"When Aventus escaped, Grelod was so mad. I got double the beatings that "
+"day. But that won't happen ever again.\""
+msgstr ""
+"\"아벤투스가 도망쳤을 때, 그렐로드는 단단히 화가 났어. 그날은 여느 때보다 배"
+"는 더 맞았다고. 하지만 이젠 그런 일은 없어.\""
+
+#: 27401
+#, fuzzy
+msgctxt "27401"
+msgid ""
+"Grelod... murdered. Here. I... I need... air... You... you... Get out of "
+"here! Get out!"
+msgstr ""
+"그렐로드가... 살해당했어. 여기서. 난... 나는 정말... 당신... 당신... 여기서 "
+"나가! 나가라고!"
+
+#: 27927
+#, fuzzy
+msgctxt "27927"
+msgid ""
+"\"Just remember that you're only a part of my court, this doesn't make you "
+"one of the family.\""
+msgstr ""
+"당신은 내 신하 중 한명이란 것을 명심해요. 이 말은 가족중의 한 사람이 되는 것"
+"을 뜻하는것은 아닙니다."
+
+#: 27939
+#, fuzzy
+msgctxt "27939"
+msgid "Begone from here! Get out of this orphanage! Help!Somebody help me!"
+msgstr ""
+"여기서 당장 나가요! 이 고아원에서 나가라구요! 도와줘요! 누가 좀 도와줘요!"
+
+#: 27942
+#, fuzzy
+msgctxt "27942"
+msgid "Just... leave here! Leave us alone!"
+msgstr "당장... 여기서 나가요! 우릴 내버려두라구요!"
+
+#: 28573
+#, fuzzy
+msgctxt "28573"
+msgid ""
+"\"Oh, well, it's just... I never imagined the Gourmet was a Khajiit. You "
+"know, because of all the fur, and the potential for getting hair in the...\""
+msgstr ""
+"\"오. 그저... 전 요리왕이 카짓일 거라고는 상상도 하지 못했거든요. 왜냐면, 당"
+"신 털때문에요. 요리에 털이 들어갈 수도 있으니까요...\""
+
+#: 28665
+#, fuzzy
+msgctxt "28665"
+msgid "All that remains now is to bestow the title upon you."
+msgstr "이제 당신에게 지위를 내릴 차례군요."
+
+#: 28750
+#, fuzzy
+msgctxt "28750"
+msgid ""
+"Ah Potema. Former queen of Solitude and one of the most dangerous "
+"necromancers in recorded history."
+msgstr ""
+"포테마말인가... 전 솔리튜드의 여왕임과 동시에 역사의 기록중에 가장 위험한 사"
+"령술사라네."
+
+#: 29826
+#, fuzzy
+msgctxt "29826"
+msgid ""
+"You... you're an Argonian! Where did you learn to cook like that? Surely not "
+"in Black Marsh. Why even the..."
+msgstr ""
+"요리왕이... 아르고니안이라니! 그런 요리들은 어디서 배우셨죠? 절대 블랙 마쉬"
+"는 아닐테죠. 설마..."
+
+#: 30032
+#, fuzzy
+msgctxt "30032"
+msgid "\"Please, relax. Free your mind. Yes, that's it...\""
+msgstr "\"긴장을 풀어요. 생각을 놓아 버려요. 그래요, 그런 식으로..\""
+
+#: 30549
+#, fuzzy
+msgctxt "30549"
+msgid "I'll come to your council. But I doubt any good will come of it."
+msgstr "\"회담장에는 나가겠지만, 좋은 결과가 나올 거라곤 생각하지 않네.\""
+
+#: 30691
+#, fuzzy
+msgctxt "30691"
+msgid ""
+"\"I used to hate it here, but it's not so bad anymore. Constance is real "
+"good to us.\""
+msgstr ""
+"\"여기가 싫긴 하지만, 지금은 그렇게 나쁘지도 않아요. 콘스탄스는 우리한테 정"
+"말 잘해주거든요. \""
+
+#: 31721
+#, fuzzy
+msgctxt "31721"
+msgid ""
+"My son is dead! At his own wedding! Only those Imperial dogs would have "
+"dared do something like this! Damn them all to Oblivion!"
+msgstr ""
+"\"내 아들이 죽다니! 자기 결혼식 도중에! 이런 끔찍한 짓은 저 임페리얼 개자식"
+"들 밖에 할 수 없어! 나쁜 놈들, 오블리비언에나 떨어져 버려라!\""
+
+#: 32073
+msgctxt "32073"
+msgid "Talking peace with Ulfric? You must be an optimist."
+msgstr ""
+
+#: 33318
+#, fuzzy
+msgctxt "33318"
+msgid ""
+"You've been a beacon of hope in these dark times for my people and I will "
+"never forget it."
+msgstr ""
+"당신은 사람들에게 암흑같은 시기로부터 희망의 빛이 되어주었고 나는 절대 이것"
+"을 잊지 못할겁니다."
+
+#: 34388
+#, fuzzy
+msgctxt "34388"
+msgid ""
+"Summoned in spirit form is not raised from the dead. She'll need help before "
+"she can return to the living."
+msgstr ""
+"소환된 영혼은 그 자체만으로 부활할수는 없네. 그녀가 부활하기위해서는 더 도움"
+"이 필요할거야."
+
+#: 34421
+#, fuzzy
+msgctxt "34421"
+msgid ""
+"Why are you here? Killing Gaius Maro is but the first step of your contract "
+"- you must also plant the incriminating letter on his body..."
+msgstr ""
+"왜 여기 있는거야? 가이어스 마로를 죽이는 건 임무의 첫 번째 단계에 불과해. 고"
+"발 편지를 시체 속에 넣어 두도록 해..."
+
+#: 34739
+#, fuzzy
+msgctxt "34739"
+msgid ""
+"I apologize in advance for my husband's crankiness; I promise you he means "
+"well."
+msgstr "남편의 변덕을 용서하세요. 남편이 악의가 있어 그런 건 아니에요.."
+
+#: 35488
+#, fuzzy
+msgctxt "35488"
+msgid ""
+"I've been informed by my steward that you've made quite an impression in the "
+"Rift; several of our citizens have expressed their admiration."
+msgstr ""
+"당신이 리프튼에서 제법 일을 잘 해 주었다 행정관에게 들었어요. 시민들 역시 당"
+"신에게 경의를 표하더군요."
+
+#: 36767
+#, fuzzy
+msgctxt "36767"
+msgid "You have some nerve coming back here after what you did to Keerava."
+msgstr "\"키라바한테 그런 짓을 해놓고 여길 다시 오다니, 배짱 한번 좋구나.\""
+
+#: 37643
+#, fuzzy
+msgctxt "37643"
+msgid ""
+"\"I guessed right! I... I always imagined the great Gourmet was a Wood Elf. "
+"You see, only someone with a knowledge of woodland herbs could combine...\""
+msgstr ""
+"\"제가 맞췄군요! 전... 전 항상 위대한 그 요리왕이 우드엘프일거라 생각했거든"
+"요. 당연하죠, 우드랜드 허브 사용법을 그렇게 자유자재로 다루는 사람이라면...\""
+
+#: 37740
+#, fuzzy
+msgctxt "37740"
+msgid ""
+"\"When Aventus escaped, Grelod got meaner than ever. I really thought she "
+"was going to kill one of us. Guess not!\""
+msgstr ""
+"\"아벤투스가 도망쳤을 때, 그렐로드는 전보다 훨씬 악랄해졌어요. 분명히 우리 "
+"중 누군가를 죽일거라 생각할 정도로. 이젠 아니군요!\""
+
+#: 38296
+#, fuzzy
+msgctxt "38296"
+msgid "\"Token, you say? Let me see.\""
+msgstr "징표라고 했나요? 어디 봅시다."
+
+#: 38593
+#, fuzzy
+msgctxt "38593"
+msgid ""
+"\"A few days ago, one of her servants busted through a wall into the Temple "
+"of Divines. We'll need you to go into the Catacombs themselves.\""
+msgstr ""
+"\"며칠전, 여왕의 부하 중 한명이 Temple of Divines의 벽을 부수고 침입했네. 자"
+"네가 지하묘지에 꼭 가줘야겠어. \""
+
+#: 38594
+#, fuzzy
+msgctxt "38594"
+msgid ""
+"\"For the moment, the Wolf Queen has retreated to a place filled with dead "
+"eager to serve her. She has gone to her old Catacombs.\""
+msgstr ""
+"\"지금, 늑대여왕은 그녀를 섬기고싶어하는 죽은 자들로 득실거리는 곳으로 물러갔"
+"네. 그녀는 지하묘지에 있을걸세.\""
+
+#: 38597
+#, fuzzy
+msgctxt "38597"
+msgid "I can provide you with some help with her minions. "
+msgstr "여왕의 부하들을 정리하는 것 정도는 도와줄 수 있네. "
+
+#: 38899
+#, fuzzy
+msgctxt "38899"
+msgid ""
+"\"Oh, goodness me. You're a friend of Gabriella's, then. Well, I guess we "
+"both know why you're here.\""
+msgstr ""
+"\"오, 이런 이런. 당신 가브리엘라의 친구로군요, 그럼. 뭐, 우리 둘 다 왜 당신"
+"이 여기 왔는지 알겠네요.\""
+
+#: 39224
+#, fuzzy
+msgctxt "39224"
+msgid ""
+"\"However, since it wouldn't behoove me to make you disappear, I'd rather "
+"have you on my side as Thane of Riften.\""
+msgstr "당신이 떠나도록 내버려두는 것보다는 당신을 리프튼의 군위로 두고 싶소. "
+
+#: 40815
+#, fuzzy
+msgctxt "40815"
+msgid ""
+"\"Oh, Aventus Aretino. He was sent here when his mother died, but he ran "
+"away.\""
+msgstr ""
+"\"오,아벤투스 아레티노. 그의 엄마가 죽었을때 여기로 보내졌어요. 근데 도망쳤어"
+"요.\""
+
+#: 40890
+#, fuzzy
+msgctxt "40890"
+msgid "Hmm? What's this about?"
+msgstr "흠? 무슨 일이죠?"
+
+#: 41082
+#, fuzzy
+msgctxt "41082"
+msgid ""
+"Aventus Aretino. He was sent to live here after his mother died. He escaped. "
+"And..."
+msgstr ""
+"아벤투스 아레티노. 그는 어머니가 죽은 후 여기로 보내졌어요. 근데 도망갔어요. "
+"그리고..."
+
+#: 41399
+#, fuzzy
+msgctxt "41399"
+msgid "\"So, I've been hearing your name in court quite a bit lately.\""
+msgstr "\"그래서 그런지, 요 근래 저택에서 당신의 이름이 자주 들리더군.\""
+
+#: 41788
+#, fuzzy
+msgctxt "41788"
+msgid ""
+"\"I heard he went back to his house in Windhelm, to try and get the Dark "
+"Brotherhood to come and murder Grelod. And... he actually pulled it off!\""
+msgstr ""
+"\"걔가 윈드헬름의 집으로 돌아갔고, 다크 브라더후드를 불러 그렐로드를 죽이려 "
+"한다는 소문을 들었죠. 그리고... 정말 그렇게 해버렸어요!\""
+
+#: 41799
+#, fuzzy
+msgctxt "41799"
+msgid ""
+"\"Before he left, he said he was going to do the Black Sacrament. You know, "
+"to call the Dark Brotherhood. So they'd come and kill old Grelod!\""
+msgstr ""
+"\"걔가 떠나기전에, 어둠의 성사를 하러간다고 했어요. 뭐 알듯이, 다크 브라더후"
+"드를 부르기 위해서지요.. 늙은 그렐로드를 죽이려는거야.\""
+
+#: 42057
+#, fuzzy
+msgctxt "42057"
+msgid "\"Don't worry, I'll come to this peace council of yours.\""
+msgstr "걱정 말게. 평화 회담에 참석하겠네."
+
+#: 42770
+#, fuzzy
+msgctxt "42770"
+msgid ""
+"I guess all that's left is to bestow the title. What were those words again?"
+msgstr ""
+"자 이제 남은 일은 직함을 수여하는 일이라 생각합니다. 더 할 말이 있나요?"
+
+#: 44034
+#, fuzzy
+msgctxt "44034"
+msgid ""
+"\"Kill one person, and you can solve so many problems. I wonder at the "
+"possibilities.\""
+msgstr ""
+"한 사람을 죽여서 이렇게 많은 문제가 해결되다니. 가능성이란 신기한거구나."
+
+#: 45102
+#, fuzzy
+msgctxt "45102"
+msgid ""
+"\"A little boy who lived here. Aventus Aretino. He was nice, but really "
+"quiet, and sad, because his mother just died.\""
+msgstr ""
+"\"여기살던 꼬마애. 아벤투스 아레티노. 괜찮은 애였는데, 근데 무척 말이없고, 슬"
+"퍼보였어요, 그의 엄마가 죽었거든요. \""
+
+#: 45901
+#, fuzzy
+msgctxt "45901"
+msgid "You'll never see the sun again. No one escapes Cidhna Mine. No one."
+msgstr ""
+"넌 두번 다시 태양을 보지 못할거야. 아무도 시드나 광산에서 탈출하지 못했지. 아"
+"무도."
+
+#: 46590
+#, fuzzy
+msgctxt "46590"
+msgid ""
+"You've already taken all the necessary steps in becoming eligible for the "
+"title."
+msgstr "자넨 이미 그 지위에 올라설 모든 준비를 마쳤군."
+
+#: 46592
+#, fuzzy
+msgctxt "46592"
+msgid "Well? Out with it."
+msgstr "뭔가? 말해봐라."
+
+#: 47168
+#, fuzzy
+msgctxt "47168"
+msgid ""
+"\"Oh, Asgeir! My husband! My dear, sweet husband! Why would someone do this "
+"to you? Why? This was supposed to be the happiest day of my life!\""
+msgstr ""
+"\"오, 에스기어! 여보! 내 사랑, 내 사랑! 대체 누가 당신한테 이런 짓을? 어째"
+"서? 내 인생에서 제일 행복한 날이 되어야 했는데!\""
+
+#: 47717
+#, fuzzy
+msgctxt "47717"
+msgid ""
+"\"Much like Mjoll, you've become champion of our hold; helping people with "
+"their difficulties and providing assistance for their needs.\""
+msgstr ""
+"\"묠과 같이, 당신은 우리 지역의 군위가 되었어요. 사람들의 어려움을 돕고 필요"
+"에 따라 손을 빌려주는 사람 말이죠.\""
+
+#: 47718
+#, fuzzy
+msgctxt "47718"
+msgid ""
+"Doesn't matter... the title is yours. I henceforth name you Thane of Riften. "
+"Don't disappoint me."
+msgstr ""
+"상관 없습니다... 지위는 당신 것이에요. 나는 앞으로 당신을 리프튼의 군위로 임"
+"명하겠어요. 기대를 저버리지 말아주세요."
+
+#: 47729
+#, fuzzy
+msgctxt "47729"
+msgid "Therefore all that remains is to bestow it upon you."
+msgstr "남은 건 지위를 하사하는 일 뿐이로군."
+
+#: 48684
+#, fuzzy
+msgctxt "48684"
+msgid ""
+"Indeed. But I abide only those whose will is aligned to my own. Those who "
+"oppose my desires perish in the most dreadful of ways."
+msgstr ""
+"과연. 하지만 나는 내가 뜻하는 바와 같은자 만을 받아들인다. 나의 욕망과 반대되"
+"는 자는 가장 끔찍한 방법으로 파멸할 것이다."
+
+#: 49110
+#, fuzzy
+msgctxt "49110"
+msgid ""
+"He ran away. Back home to Windhelm. Samuel told me he was trying to get some "
+"murderer people to come here and kill Grelod. Did he really do it?"
+msgstr "그는 윈드헬름의 자기 집으로 돌아갔어요. 새뮤얼이 그러는데"
+
+#: 50629
+#, fuzzy
+msgctxt "50629"
+msgid ""
+"\"Oh, yes. Of course... the whole thane thing. I'd forgotten. If you're "
+"ready then, can we get this out of the way?\""
+msgstr ""
+"아 맞다. 군위 건이 있었군요. 잊어버리고 있었네요. 당신만 준비되었다면 이 참"
+"에 해 버리는 게 어떻겠어요?"
+
+#: 51866
+#, fuzzy
+msgctxt "51866"
+msgid ""
+"\"Balimund pulled me out of Grelod's orphanage when I was just a child. I "
+"don't know what he saw in me, but I was glad to get out of there.\""
+msgstr ""
+"발리문드는 철없는 꼬마였던 나를 그렐로드 고아원에서 데려왔어요. 그가 내게서 "
+"어떤 가능성을 봤는지 모르겠지만 난 그곳에서 빠져나온게 정말 기뻤어요."
+
+#: 51918
+#, fuzzy
+msgctxt "51918"
+msgid ""
+"\"It's just... Well... you're an Orc! Ha ha ha! If the people of the Empire "
+"only knew! I mean, now I understand your need for secrecy. Most would...\""
+msgstr ""
+"그게... 그러니까... 오크시잖아요! 하하하! 제국 사람들이 알았더라면! 이제야 "
+"왜 비밀로 하셨었는지 알겠네요. 그래야겠죠..."
+
+#: 52069
+#, fuzzy
+msgctxt "52069"
+msgid "I should slay you for such insolence!"
+msgstr "그런 건방진 태도는 죽어 마땅하다!"
+
+#: 52070
+#, fuzzy
+msgctxt "52070"
+msgid "My good pleasure is not some trophy for mortal sport!"
+msgstr "나의 관심사는 필멸자와 싸워 이기는 것 따위가 아니다!"
+
+#: 52071
+#, fuzzy
+msgctxt "52071"
+msgid "My favor?"
+msgstr "나의 총애?"
+
+#: 52624
+#, fuzzy
+msgctxt "52624"
+msgid ""
+"You're a High Elf! I... I never would have guessed it. So many of your "
+"recipes are clearly aimed at the commonfolk. It just seems..."
+msgstr ""
+"하이엘프셨다니! 전혀... 전혀 생각도 못했어요. 선생님의 레시피 대부분은 명백"
+"히 평범한 사람들이 타겟이었잖아요. 이건 그저..."
+
+#: 52627
+#, fuzzy
+msgctxt "52627"
+msgid ""
+"\"I... Well, I just can't believe the Gourmet is a Dark Elf. How difficult "
+"it must have been for you in Morrowind. The food there is...\""
+msgstr ""
+"\"전... 그저, 그 요리왕이 다크엘프일 거란 생각을 못했어요. 모로윈드에서 요리 "
+"공부하시기 얼마나 힘드셨을까요. 그 곳 음식은 정말..\""
+
+#: 53850
+#, fuzzy
+msgctxt "53850"
+msgid ""
+"I've been informed by my steward that you've made quite an impression in the "
+"Rift; the people won't stop blathering about you."
+msgstr ""
+"당신이 리프튼에서 꽤 인상적인 일들을 했다고 행정관에게 전해 들었어요. 사람들"
+"이 당신에 대해 이야기 하는걸 멈추지 않고 있다더군."
+
+#: 54840
+#, fuzzy
+msgctxt "54840"
+msgid ""
+"\"As the Jarl of Riften, I feel it's my duty to honor your selfless behavior "
+"by honoring you with the title Thane of Riften.\""
+msgstr ""
+"\"리프튼의 영주로서, 당신의 이타적 행동을 기념하기 위해 리프튼의 군위라는 칭"
+"호로 당신에게 경의를 표하겠어요.\""
+
+#: 55267
+#, fuzzy
+msgctxt "55267"
+msgid ""
+"\"When Aventus took off, when he said those things, about killing Grelod... "
+"I never imagined he was serious...\""
+msgstr ""
+"아벤투스가 그렐로드를 죽일거라고 처음 말했을 때... 진심이라고는 생각지도 못했"
+"어요."
+
+#: 56052
+#, fuzzy
+msgctxt "56052"
+msgid ""
+"I remember you... You were at Helgen with us! Come to join the war? Speak "
+"with Galmar. He handles the new recruits."
+msgstr ""
+"아 자네... 기억나는군. 헬겐에서 우리와 함께 있었지! 참전을 원하나? 그렇다면 "
+"갈마에게 말해보게. 그가 신병 담당자니까."
+
+#: 56922
+#, fuzzy
+msgctxt "56922"
+msgid ""
+"\"Things are much better now that Grelod is dead, but still. I'm sick of "
+"this place.\""
+msgstr ""
+"그렐로드가 죽고 나서 상당히 좋아졌어요. 그렇지만 고아원은 여전히 싫어요."
+
+#: 57086
+#, fuzzy
+msgctxt "57086"
+msgid ""
+"\"The blubbering barbarian and the tenacious mother. Must have been one of "
+"them, right?\""
+msgstr ""
+"\"질질 짜는 야만인과 꼬장꼬장한 아줌마. 분명 둘 중 한 명이었을 거야, 안 그래?"
+"\""
+
+#: 57835
+#, fuzzy
+msgctxt "57835"
+msgid "\"Ah, at last. I've been anxiously awaiting your return.\""
+msgstr "\"아, 드디어. 네가 돌아오기만을 기다리고 있었어\""
+
+#: 58332
+#, fuzzy
+msgctxt "58332"
+msgid ""
+"\"I remember you, you were at Helgen. Speak to Legate Rikke. I suspect we "
+"could use someone like you.\""
+msgstr ""
+"난 자네를 기억해. 헬겐에 있었지. 특사 리카에게 말해봐. 우린 당신같은 사람이 "
+"필요해."
+
+#: 58805
+#, fuzzy
+msgctxt "58805"
+msgid ""
+"\"Well, I don't mean to seem disappointed, but... I just never figured the "
+"Gourmet was an Imperial. I had dreamed of something more exotic, maybe...\""
+msgstr ""
+"\"뭐, 실망한 것처럼 보이고 싶진 않지만... 그 요리왕이 임페리얼일거란 생각은 "
+"못했어요. 좀 더 이국적인 걸 기대했거든요, 예를 들어...\""
+
+#: 58901
+#, fuzzy
+msgctxt "58901"
+msgid ""
+"\"Constance don't care much for strangers in the orphanage. Afraid someone "
+"might hurt one of us kids. Which, I gotta admit, is kind of nice.\""
+msgstr ""
+"콘스탄스는 고아원에 낯선 사람이 오는 걸 좋게 생각하지 않는 것 같아요. 누군가 "
+"우릴 다치게 할까봐 걱정하고 있거든요. 정말 상냥한 것 같아요."
+
+#: 59019
+#, fuzzy
+msgctxt "59019"
+msgid ""
+"\"I've spent years watching his techniques and learning his tricks. Sadly, I "
+"don't think I'll ever be as talented as he was.\""
+msgstr ""
+"나는 수년동안 그의 기술을 지켜봤고 그의 요령을 익혔어. 슬프게도 그가 했던것 "
+"만큼의 재능이 내게 있을 거라고 생각할 순 없었지."
+
+#: 59103
+#, fuzzy
+msgctxt "59103"
+msgid ""
+"You can return this axe to our friend. The esteemed Jarl of Windhelm has my "
+"answer. Make sure he gets it."
+msgstr ""
+"이 도끼를 우리 친구에게 돌려주겠나. 존경받는 윈드헬름의 영주가 내 대답을 기다"
+"리고 있다. 반드시 그에게 전달하게."
+
+#: 61675
+#, fuzzy
+msgctxt "61675"
+msgid ""
+"\"By all the gods, the groom has been killed. At his own wedding! I can only "
+"think of my own husband...\""
+msgstr ""
+"\"이런 맙소사, 신랑이 죽다니. 그것도 자기 결혼식 도중에! 지금은 내 남편 생각"
+"밖에 안 들어...\""
+
+#: 61836
+#, fuzzy
+msgctxt "61836"
+msgid ""
+"I should be the one thanking you. You've solved more problems in the short "
+"time you've been here then anyone in my court has their entire careers."
+msgstr ""
+"당신에게 감사해드리고 싶어요. 내 영지에서 그 누구보다도 단기간에 정말로 많은 "
+"문제들을 해결해 주었습니다."
+
+#: 62771
+#, fuzzy
+msgctxt "62771"
+msgid ""
+"I was apprenticed to Balimund before he died. He taught me everything I know "
+"about forging armor and weapons."
+msgstr ""
+"나는 발리문드가 죽기 전에 그의 제자였지. 그는 내게 그가 아는 무기와 방어구의 "
+"제련술을 모두 전수해줬어."
+
+#: 63242
+#, fuzzy
+msgctxt "63242"
+msgid ""
+"The conniving Khajiit. Cat like that was sure to have enemies. It's no "
+"wonder you chose him."
+msgstr ""
+"음험한 카짓이라. 저런 태도의 야옹이라면 분명 적도 꽤나 만들었을테지. 충분히 "
+"저 자를 선택할 만 해."
+
+#: 63322
+#, fuzzy
+msgctxt "63322"
+msgid "I can't believe it! Grelod is dead! She's really dead!"
+msgstr "믿을수가 없어! 그렐로드가 죽었다구! 그녀가 진짜로 죽었어!"
+
+#: 63787
+#, fuzzy
+msgctxt "63787"
+msgid "Ah yes. I've studied those documents... Very interesting..."
+msgstr "아 예. 이 문서를 조사해봤는데... 아주 흥미롭군요."
+
+#: 64256
+#, fuzzy
+msgctxt "64256"
+msgid "\"Ah, there you are. I was wondering when you'd visit us again.\""
+msgstr "\"아, 당신이군요. 언제 다시 올지 궁금하던 참이었는데.\""

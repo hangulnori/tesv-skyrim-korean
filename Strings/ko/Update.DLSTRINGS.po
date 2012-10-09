@@ -1,0 +1,1856 @@
+# Unofficial The Elder Scrolls V: Skyrim Korean Language Pack
+msgid ""
+msgstr ""
+"Project-Id-Version: TESV: Skyrim 1.7.7.0.6\n"
+"Report-Msgid-Bugs-To: https://github.com/hangulnori/tesv-skyrim-korean/issues\n"
+"POT-Creation-Date: 2012-03-14 15:54+0100\n"
+"PO-Revision-Date: 2012-09-26 01:35+0900\n"
+"Last-Translator: Jiyoon Jang <freshworks@gmail.com>\n"
+"Language-Team: Hangulnori\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 16
+msgctxt "16"
+msgid ""
+"\"Only usable during main gameplay. You must have the shout unlocked to the "
+"level you want to use, and you can say the Shout in English or in Dragon "
+"Language.\n"
+"\n"
+"1. English Language: Available without holding RB. Just say the name. e.g. "
+"UNRELENTING FORCE, and the highest known level of the shout will trigger.\n"
+"\n"
+"2. Dragon Language: Only available when holding RB. \n"
+"\n"
+"Note: To use Shouts or Powers while Kinect is enabled using the controller, "
+"press LB + RB at same time.\n"
+"\n"
+"\n"
+"Unrelenting Force - \"\"Fus Ro Dah\"\"\n"
+"\n"
+"Dismaying Shout - \"\"Faas Ru Maar\"\"\n"
+"\n"
+"Become Ethereal - \"\"Feim Zii Gron\"\"\n"
+"\n"
+"Whirlwind Sprint - \"\"Wuld Nah Kest\"\"\n"
+"\n"
+"Elemental Fury - \"\"Su Grah Dun\"\"\n"
+"\n"
+"Clear Skies - \"\"Lok Vah Koor\"\"\n"
+"\n"
+"Fire Breath - \"\"Yol Toor Shul\"\"\n"
+"\n"
+"Dragonrend - \"\"Joor Zah Frul\"\"\n"
+"\n"
+"Call of Valor - \"\"Hun Kaal Zoor\"\"\n"
+"\n"
+"Call Dragon - \"\"Od Ah Viing\"\" (No 1st or 2nd level variations of this "
+"shout)\n"
+"\n"
+"Animal Allegiance - \"\"Raan Mir Tah\"\"\n"
+"\n"
+"Aura Whisper - \"\"Laas Yah Nir\"\"\n"
+"\n"
+"Disarm - \"\"Zun Haal Viik\"\"\n"
+"\n"
+"Marked For Death - \"\"Krii Lun Aus\"\"\n"
+"\n"
+"Frost Breath - \"\"Fo Krah Diin\"\"\n"
+"\n"
+"Storm Call - \"\"Strun Bah Qo\"\"\n"
+"\n"
+"Kyne's Peace - \"\"Kaan Drem Ov\"\"\n"
+"\n"
+"Slow Time - \"\"Tiid Klo Ul\"\"\n"
+"\n"
+"Throw Voice - \"\"Zul Mey Gut\"\"\n"
+"\n"
+"Ice Form - \"\"Iiz Slen Nus\"\"\""
+msgstr ""
+
+#: 19
+msgctxt "19"
+msgid ""
+"\"KINECT COMMANDS\n"
+"\n"
+"Turn on Kinect functionality by going to SETTINGS->GAMEPLAY and check USE "
+"KINECT COMMANDS. Be sure to calibrate your Kinect sensor for sound first.\n"
+"\n"
+"MAIN GAMEPLAY\n"
+"\n"
+"\"\"Quick Items\"\" - Opens inventory menu\n"
+"\"\"Quick Magic\"\" - Opens magic menu\n"
+"\"\"Quick Skills\"\" - Opens stats menu\n"
+"\"\"Quick Map\"\" - Opens map menu\n"
+"\"\"Quick Save\"\" - Quick-saves the game\n"
+"\"\"Quick Load\"\" - Quick-loads the game\n"
+"\"\"New Save\"\" - Saves the game into a new save slot\n"
+"\"\"Pause Game\"\" - Pauses the game\n"
+"\n"
+"CHARACTER MENU\n"
+"\"\"Items\"\" - Opens inventory menu\n"
+"\"\"Magic\"\" - Opens magic menu\n"
+"\"\"Skills\"\" - Opens skills menu\n"
+"\"\"Map\"\" - Opens map menu\n"
+"\n"
+"FAVORITES MENU\n"
+"\"\"Assign <hotkey command>\"\" -  Sets the selected item to the spoken "
+"hotkey\n"
+"\"\"Health Potion\"\"\n"
+"\"\"Magicka Potion\"\"\n"
+"\"\"Stamina Potion\"\"\n"
+"\"\"Poison\"\"\n"
+"\"\"Sword\"\"\n"
+"\"\"Mace\"\"\n"
+"\"\"Axe\"\"\n"
+"\"\"Dagger\"\"\n"
+"\"\"Bow\"\"\n"
+"\"\"Shield\"\"\n"
+"\"\"Dual Wield Left\"\"\n"
+"\"\"Dual Wield Right\"\"\n"
+"\"\"Soul Trap\"\"\n"
+"\"\"Greatsword\"\"\n"
+"\"\"Battleaxe\"\"\n"
+"\"\"Warhammer\"\"\n"
+"\"\"Fire Spell\"\"\n"
+"\"\"Frost Spell\"\"\n"
+"\"\"Lightning Spell\"\"\n"
+"\"\"Ward Spell\"\"\n"
+"\"\"Ritual Spell\"\"\n"
+"\"\"Bound Weapon\"\"\n"
+"\"\"Summon Spell\"\"\n"
+"\"\"Armor Spell\"\"\n"
+"\"\"Calm Spell\"\"\n"
+"\"\"Frenzy Spell\"\"\n"
+"\"\"Healing Spell\"\"\n"
+"\"\"Light\"\"\n"
+"\n"
+"HOTKEY EQUIPPING\n"
+"Only usable during main gameplay\n"
+"\"\"Equip <hotkey command>\"\" - Equips item in the default hand\n"
+"\"\"Equip Left <hotkey command>\"\" - Equips item in the Left hand, if "
+"possible.\n"
+"\"\"Equip Right <hotkey command>\"\" - Equips item in the Right hand, if "
+"possible.\n"
+"\"\"Equip Dual <hotkey command>\"\" - Equips the item in both hands, if "
+"possible.\n"
+"\n"
+"See above for definition of <hotkey command>\n"
+"\"\"Equip Sword And Shield\"\" - Equips the item with the Sword hotkey in "
+"the right hand, and the item with the Shield hotkey in the left hand\n"
+"\n"
+"Also: \n"
+"\"\"Equip Mace and Shield\"\"\n"
+"\"\"Equip Axe and Shield\"\"\n"
+"\"\"Equip Dagger and Shield\"\"\n"
+"\"\"Equip Dual Weapons\"\" - Equips the item with the DualWieldLeft hotkey "
+"in the left hand, and the item with the DualWieldRight hotkey in the left "
+"hand.\n"
+"\n"
+"FOLLOWER COMMANDS\n"
+"Only usable during main gameplay.  Only valid if you have a follower.\n"
+"\n"
+"\"\"Ally Follow\"\" or \"\"Ally Follow Me\"\" - Ally follows you as if you "
+"told them \"\"Follow me.\"\"\n"
+"\"\"Ally Wait\"\" or \"\"Ally Wait Here\"\" - Ally stays where they are\n"
+"\"\"Ally Trade\"\" or \"\"Ally Items\"\" - Opens the Teammate menu\n"
+"\"\"Ally Open\"\" - Commands the ally to open the container / door you're "
+"looking at.\n"
+"\"\"Ally Stand\"\" - Commands the ally to stand at the spot you're looking "
+"at.\n"
+"\"\"Ally Retrieve\"\" - Commands the ally to pick up the item you're looking "
+"at.\n"
+"\"\"Ally Attack\"\" - Commands the ally to attack the NPC you're looking "
+"at.\n"
+"\"\"Ally Interact\"\" or \"\"Ally Use\"\" - Does a generic Interact command "
+"with the ally.  Same as if you entered Command mode and pressed A.  What the "
+"ally does is dependent on what you're looking at\n"
+"\n"
+"SHOUTS\n"
+"Only usable during main gameplay.  \n"
+"\n"
+"Unrelenting Force - \"\"Fus Ro Dah\"\"\n"
+"\n"
+"Dismaying Shout - \"\"Faas Ru Maar\"\"\n"
+"\n"
+"Become Ethereal - \"\"Feim Zii Gron\"\"\n"
+"\n"
+"Whirlwind Sprint - \"\"Wuld Nah Kest\"\"\n"
+"\n"
+"Elemental Fury - \"\"Su Grah Dun\"\"\n"
+"\n"
+"Clear Skies - \"\"Lok Vah Koor\"\"\n"
+"\n"
+"Fire Breath - \"\"Yol Toor Shul\"\"\n"
+"\n"
+"Dragonrend - \"\"Joor Zah Frul\"\"\n"
+"\n"
+"Call of Valor - \"\"Hun Kaal Zoor\"\"\n"
+"\n"
+"Call Dragon - \"\"Od Ah Viing\"\" (No 1st or 2nd level variations of this "
+"shout)\n"
+"\n"
+"Animal Allegiance - \"\"Raan Mir Tah\"\"\n"
+"\n"
+"Aura Whisper - \"\"Laas Yah Nir\"\"\n"
+"\n"
+"Disarm - \"\"Zun Haal Viik\"\"\n"
+"\n"
+"Marked For Death - \"\"Krii Lun Aus\"\"\n"
+"\n"
+"Frost Breath - \"\"Fo Krah Diin\"\"\n"
+"\n"
+"Storm Call - \"\"Strun Bah Qo\"\"\n"
+"\n"
+"Kyne's Peace - \"\"Kaan Drem Ov\"\"\n"
+"\n"
+"Slow Time - \"\"Tiid Klo Ul\"\"\n"
+"\n"
+"Throw Voice - \"\"Zul Mey Gut\"\"\n"
+"\n"
+"Ice Form - \"\"Iiz Slen Nus\"\"\n"
+"\n"
+"\n"
+"INVENTORY MENU\n"
+"\"\"Favorites\"\"\n"
+"\"\"All\"\"\n"
+"\"\"Weapons\"\"\n"
+"\"\"Apparel\"\" or \"\"Armor\"\"\n"
+"\"\"Potions\"\"\n"
+"\"\"Scrolls\"\"\n"
+"\"\"Food\"\"\n"
+"\"\"Ingredients\"\"\n"
+"\"\"Books\"\"\n"
+"\"\"Keys\"\"\n"
+"\"\"Miscellaneous\"\"\n"
+"\"\"Sort By Name\"\" - Sorts the item list by name, increasing.  If the list "
+"is already sorted by name increasingly, sorts it decreasingly.\n"
+"\"\"Sort By Weight\"\" - Sorts the item list by weight, decreasing.  If the "
+"list is already sorted by weight decreasingly, sorts it increasingly.\n"
+"\"\"Sort By Value\"\" - Sorts the item list by value, decreasing.  If the "
+"list is already sorted by value decreasingly, sorts it increasingly.\n"
+"\"\"Close Menu\"\" - Closes the menu\n"
+"\n"
+"BARTER MENU\n"
+"Vendor categories - Open the item list for the spoken vendor category\n"
+"\"\"Their Items\"\"\n"
+"\"\"Their Weapons\"\"\n"
+"\"\"Their Apparel\"\"\n"
+"\"\"Their Potions\"\"\n"
+"\"\"Their Scrolls\"\"\n"
+"\"\"Their Food\"\"\n"
+"\"\"Their Ingredients\"\"\n"
+"\"\"Their Books\"\"\n"
+"\"\"Their Keys\"\"\n"
+"\"\"Their Miscellaneous\"\"\n"
+"\n"
+"Player categories - Opens the item list for the spoken player category\n"
+"\"\"My Items\"\" or \"\"All\"\"\n"
+"\"\"My Weapons\"\" or \"\"Weapons\"\"\n"
+"\"\"My Apparel\"\" or \"\"Apparel\"\" or \"\"Armor\"\"\n"
+"\"\"My Potions\"\" or \"\"Potions\"\"\n"
+"\"\"My Scrolls\"\" or \"\"Scrolls\"\"\n"
+"\"\"My Food\"\" or \"\"Food\"\"\n"
+"\"\"My Ingredients\"\" or \"\"Ingredients\"\"\n"
+"\"\"My Books\"\" or \"\"Books\"\"\n"
+"\"\"My Keys\"\" or \"\"Keys\"\"\n"
+"\"\"My Miscellaneous\"\"\n"
+"\"\"Sort By Name\"\"\n"
+"\"\"Sort By Value\"\"\n"
+"\"\"Sort By Weight\"\"\n"
+"\"\"Close Menu\"\"\n"
+"\n"
+"CONTAINER MENU\n"
+"\"\"Their Items\"\"\n"
+"\"\"Their Weapons\"\"\n"
+"\"\"Their Apparel\"\"\n"
+"\"\"Their Potions\"\"\n"
+"\"\"Their Scrolls\"\"\n"
+"\"\"Their Food\"\"\n"
+"\"\"Their Ingredients\"\"\n"
+"\"\"Their Books\"\"\n"
+"\"\"Their Keys\"\"\n"
+"\"\"Their Miscellaneous\"\"\n"
+"\n"
+"Player categories - Opens the item list for the spoken player category\n"
+"\"\"My Items\"\" or \"\"All\"\"\n"
+"\"\"My Weapons\"\" or \"\"Weapons\"\"\n"
+"\"\"My Apparel\"\" or \"\"Apparel\"\" or \"\"Armor\"\"\n"
+"\"\"My Potions\"\" or \"\"Potions\"\"\n"
+"\"\"My Scrolls\"\" or \"\"Scrolls\"\"\n"
+"\"\"My Food\"\" or \"\"Food\"\"\n"
+"\"\"My Ingredients\"\" or \"\"Ingredients\"\"\n"
+"\"\"My Books\"\" or \"\"Books\"\"\n"
+"\"\"My Keys\"\" or \"\"Keys\"\"\n"
+"\"\"My Miscellaneous\"\"\n"
+"\"\"Set Loot Limit <value>\"\" - Sets the value that the \"\"Loot Items\"\" "
+"voice command should use.\n"
+"<value> can be 0, 5, 10, 25, 50 or 100.\n"
+"\n"
+"\"\"Loot Items\"\" - Takes all items from a container whose value-to-weight "
+"ratio is greater than or equal to the loot limit.  If the limit is 0, only "
+"takes weightless items with value, i.e. gold.\n"
+"\"\"Sort By Name\"\"\n"
+"\"\"Sort By Value\"\"\n"
+"\"\"Sort By Weight\"\"\n"
+"\"\"Close Menu\"\"\n"
+"\n"
+"MAGIC MENU\n"
+"\"\"Favorites\"\"\n"
+"\"\"All\"\"\n"
+"\"\"Alteration\"\"\n"
+"\"\"Illusion\"\"\n"
+"\"\"Destruction\"\"\n"
+"\"\"Conjuration\"\"\n"
+"\"\"Restoration\"\"\n"
+"\"\"Shouts\"\"\n"
+"\"\"Powers\"\"\n"
+"\"\"Active Effects\"\" or \"\"Effects\"\"\n"
+"\n"
+"MAP MENU\n"
+"\"\"<city name>\"\" - Centers the camera on that city.  Following cities (9 "
+"hold capitals) are implemented:\n"
+"\"\"Windhelm\"\"\n"
+"\"\"Falkreath\"\"\n"
+"\"\"Dawnstar\"\"\n"
+"\"\"Morthal\"\"\n"
+"\"\"Solitude\"\"\n"
+"\"\"Markarth\"\"\n"
+"\"\"Riften\"\"\n"
+"\"\"Whiterun\"\"\n"
+"\"\"Winterhold\"\"\n"
+"\"\"Player\"\" or \"\"Where am I\"\" - Centers camera on the player.\n"
+"\"\"Waypoint\"\" - Centers camera on player-set marker, if available\n"
+"\"\"Quest Marker\"\" or \"\"Quest\"\" - Centers camera on active quest "
+"target.  Saying it multiple times will cycle through targets.\n"
+"\n"
+"\n"
+"STATS MENU\n"
+"\"\"One Handed\"\"\n"
+"\"\"Two Handed\"\"\n"
+"\"\"Archery\"\"\n"
+"\"\"Block\"\"\n"
+"\"\"Smithing\"\"\n"
+"\"\"Heavy Armor\"\"\n"
+"\"\"Light Armor\"\"\n"
+"\"\"Pickpocket\"\"\n"
+"\"\"Lockpicking\"\"\n"
+"\"\"Sneak\"\"\n"
+"\"\"Alchemy\"\"\n"
+"\"\"Speech\"\"\n"
+"\"\"Alteration\"\"\n"
+"\"\"Conjuration\"\"\n"
+"\"\"Destruction\"\"\n"
+"\"\"Illusion\"\"\n"
+"\"\"Restoration\"\"\n"
+"\"\"Enchanting\"\"\""
+msgstr ""
+
+#: 92
+#, fuzzy
+msgctxt "92"
+msgid ""
+"\"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius "
+"where the souls of Nord heroes go to feast and battle until the final "
+"reckoning. Now to find Alduin and defeat him once and for all.\""
+msgstr ""
+"알두인의 포탈을 지나 에세리우스의 영역인 소븐가드에 도착했다. 에세리우스는 노"
+"드 영웅의 영혼들이 최후의 심판을 받을 때까지 축제를 벌이고 전투를 즐기는 곳이"
+"다. 이제 알두인을 찾아 녀석을 영원히 끝장낼 시간이 왔다."
+
+#: 178
+msgctxt "178"
+msgid ""
+"\"Citizens of Skyrim, they are a tall and fair-haired people.  Strong and "
+"hardy, Nords are famous for their resistance to cold and their talent as "
+"warriors. They can use a Battlecry to make opponents flee.\""
+msgstr ""
+
+#: 975
+msgctxt "975"
+msgid ""
+"\"In addition to their quick and perceptive grasp of spellcraft, even the "
+"humblest of High Rock's Bretons can boast a resistance to magic. Bretons can "
+"call upon the Dragonskin power to absorb spells.\""
+msgstr ""
+
+#: 977
+#, fuzzy
+msgctxt "977"
+msgid "I have been inducted as a full member of the Companions."
+msgstr "나는 컴패니언의 정식 단원으로 임명되었다. "
+
+#: 1990
+#, fuzzy
+msgctxt "1990"
+msgid "<Alias=Brute> won't be causing as much trouble for <Alias=BruteTown>."
+msgstr ""
+"<Alias=Brute>은 <Alias=BruteTown>에서 더 이상 문제를 일으키지 않을 것이다. "
+
+#: 2810
+msgctxt "2810"
+msgid ""
+"\"The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are "
+"prized for their craftsmanship. Orc troops in Heavy Armor are among the "
+"finest in the Empire, and are fearsome when using their Berserker Rage.\""
+msgstr ""
+
+#: 4921
+#, fuzzy
+msgctxt "4921"
+msgid "The art of creating and improving weapons and armor from raw materials."
+msgstr "재료를 사용해 무기와 방어구를 제작하고 강화하는 기술입니다."
+
+#: 5410
+#, fuzzy
+msgctxt "5410"
+msgid ""
+"Potema has been summoned from beyond the grave and is gathering power. Styrr "
+"has given me the key to Potema's Catacombs. I must enter the catacombs and "
+"prevent Potema from fully resurrecting by acquiring her bones."
+msgstr ""
+"포테마는 무덤 너머로부터 부활하고 있었으며 동시에 힘을 모으고 있었다. 스티르"
+"(Styrr)는 나에게 포테마의 지하 묘지로 통하는 열쇠를 주었다. 난 반드시 지하무"
+"덤 속으로 들어가 그녀의 유해를 얻음으로서 포테마가 완전히 부활하려는 것을 막"
+"아야 한다. "
+
+#: 6564
+#, fuzzy
+msgctxt "6564"
+msgid "Attacks with battle axes cause extra bleeding damage."
+msgstr "전투도끼로 공격시 추가 출혈피해를 줍니다."
+
+#: 6566
+#, fuzzy
+msgctxt "6566"
+msgid "Attacks with battle axes cause more bleeding damage."
+msgstr "전투도끼로 공격시 추가 출혈피해를 더 줍니다."
+
+#: 6569
+#, fuzzy
+msgctxt "6569"
+msgid "Attacks with battle axes cause even more bleeding damage."
+msgstr "전투도끼로 공격시 추가 출혈피해를 더 크게 줍니다."
+
+#: 6743
+#, fuzzy
+msgctxt "6743"
+msgid "Unified perk for applying skill benefits from perks"
+msgstr "기술에 적용되는 특전의 효과를 중첩시킵니다."
+
+#: 8374
+#, fuzzy
+msgctxt "8374"
+msgid ""
+"<Alias=Victim> has been kidnapped and taken to <Alias=Lair>. I need to get "
+"<Alias.PronounObj=Victim> back to <Alias=VictimHome>."
+msgstr ""
+"<Alias=Victim>가 납치되어 <Alias=Lair>에 끌려갔다. <Alias.PronounObj=Victim>"
+"를 <Alias=VictimHome>에 돌려 보내야 한다. "
+
+#: 8590
+#, fuzzy
+msgctxt "8590"
+msgid ""
+"\"I've dealt with the three troublesome business owners in Riften as "
+"Brynjolf had specified. Perhaps now that I've proven my worth to Brynjolf, I "
+"can discover more about this mysterious organization that he represents.\""
+msgstr ""
+"\"브린욜프가 언급했던, 사업 관계에 조금 문제가 있었던 세 명의 인간들과 적절"
+"히 면담하고 왔다. 아마 이제 브린욜프도 내 가치를 알아 보았을테니, 그가 속해 "
+"있는 이 미심쩍은 조직에 대해서도 더 자세히 알 수 있을 것이다.\""
+
+#: 8592
+#, fuzzy
+msgctxt "8592"
+msgid ""
+"\"After successfully locating the Ragged Flagon, Brynjolf has given me a new "
+"assignment. Three business owners in Riften are proving to be a thorn in his "
+"side and I'm supposed to teach them the error of their ways. I should speak "
+"to Brynjolf about these townspeople in the event that they prove to be as "
+"stubborn as I'm expecting them to be.\""
+msgstr ""
+"\"오래된 술병에 도착한 후, 브린욜프는 내게 새 임무를 주었다. 리프튼에서 사업"
+"을 하고 있는 세 명의 인간들은 브린욜프의 오랜 두통꺼리 였다고 한다. 그래서 "
+"난 녀석들에게 그게 얼마나 잘못된 행동인지 가르쳐 주려고 한다. 그 마을 놈들이 "
+"내 예상보다 더 강경하게 나온다면, 브린욜프에게 이야기 해봐야 겠다.\""
+
+#: 8742
+#, fuzzy
+msgctxt "8742"
+msgid ""
+"\"Now that Mallus's position as the owner of Honningbrew Meadery has been "
+"secured, I need to find any information explaining how Sabjorn was able to "
+"fund this costly operation.\""
+msgstr ""
+"맬러스가 허닝브류 양조장의 주인이 되었다. 이제 나는 사브욘이 어떻게 양조장을 "
+"운영하는데 드는 비용을 충당할 수 있었는지 그 정보를 찾아 내야만 한다."
+
+#: 8745
+#, fuzzy
+msgctxt "8745"
+msgid ""
+"The plan worked perfectly and Whiterun's Captain of the Guard was stricken "
+"with illness when he drank the poisoned mead. Sabjorn's been carted off to "
+"jail and Honningbrew Meadery is now closed."
+msgstr ""
+"\"계획은 완벽하게 성공했다. 화이트런 경비대의 지휘관이 독이 든 술을 마시자, "
+"이윽고 중독 되었다. 사브욘은 감옥으로 호송되었으며, 허닝브류 양조장은 지금 폐"
+"업 상태이다.\""
+
+#: 8750
+#, fuzzy
+msgctxt "8750"
+msgid ""
+"\"Sabjorn has provided me with poison I'm to apply to the nests deep within "
+"the tunnels under Honningbrew Meadery. As Mallus predicted, I should be able "
+"to use the very same poison to taint Sabjorn's mead as well.\""
+msgstr ""
+"\"사브욘은 허닝브류 양조장 지하 깊숙이 위치한 스키버의 소굴에 살포할 독을 건"
+"내주었다. 맬러스의 계획대로, 나는 그것과 유사한 독약을 이용해 사브욘의 술도 "
+"오염시켜야 한다. \""
+
+#: 8752
+#, fuzzy
+msgctxt "8752"
+msgid ""
+"\"I've become a key component in a cunning plan to frame Honningbrew "
+"Meadery's owner, Sabjorn, and have him imprisoned. The first part of the "
+"scheme is to approach Sabjorn under the guise of assistance with a pest "
+"problem he's having thanks to Mallus's tinkering.\""
+msgstr ""
+"\"나는 허닝브류 양조장의 주인인 사브욘에게 죄를 뒤집어 씌우고, 그를 감옥에 가"
+"두는, 이 교활한 작전의 핵심이 되는 임무를 맡게 되었다. 그 계획의 시작은 일단 "
+"전염병 문제를 돕기 위해 온 것처럼 사브욘에게 접근하는 것이다. 사브욘은 맬러스"
+"가 한 일을 고마워하고 있다.\""
+
+#: 8759
+#, fuzzy
+msgctxt "8759"
+msgid ""
+"\"I've been sent to speak to Maven Black-Briar, head of the wealthiest most "
+"influential family in Riften. According to Brynjolf, she has a job of utmost "
+"importance for me and I need to follow her directions to the letter.\""
+msgstr ""
+"\"나는 리프튼에서 가장 부유하고 영향력 있는 가문의 일원인 메이븐 블랙브라이어"
+"와 이야기 해보라는 지시를 받았다. 브린욜프의 말에 따르면, 내게 맡길 일은 그녀"
+"에게 있어 굉장히 중요한 일이라고 한다. 최대한 그녀의 지시에 따라 일을 끝내야 "
+"한다.\""
+
+#: 8845
+msgctxt "8845"
+msgid ""
+"\"If I want to become a member of the Companions, I have to speak to their "
+"leader, Kodlak Whitemane, in Whiterun.\""
+msgstr ""
+
+#: 8912
+#, fuzzy
+msgctxt "8912"
+msgid ""
+"An otherworldly voice coming from Mount Kilkreath is commanding me to find a "
+"beacon and return it."
+msgstr ""
+"\"킬크리스 산에서 들려오는 다른 세상의 목소리가 성화를 찾아 원래 있던 곳에 되"
+"돌려 놓으라고, 내게 명령하고 있다. \""
+
+#: 9122
+#, fuzzy
+msgctxt "9122"
+msgid "Silus is dead. Whatever plans he had have died with him."
+msgstr ""
+"사일러스는 죽었다. 사일러스가 계획하고 있던 일은 그의 죽음과 함께 영원히 사라"
+"졌다. "
+
+#: 9124
+#, fuzzy
+msgctxt "9124"
+msgid ""
+"I refused to kill Silus for Mehrunes Dagon. The Razor is forever out of my "
+"grasp."
+msgstr ""
+"메이룬스 데이건을 위해 사일러스를 죽이는 일은 거절했다. 메이룬스의 칼날은 영"
+"원히 내 손에서 떠나갔다."
+
+#: 9125
+#, fuzzy
+msgctxt "9125"
+msgid "Silus is dead and Mehrunes' Razor is mine."
+msgstr "사일러스는 죽었고 메이룬스의 칼날은 내 것이 되었다."
+
+#: 9127
+#, fuzzy
+msgctxt "9127"
+msgid ""
+"\"Silus Vesuius, the owner of a museum dedicated to the Mythic Dawn cult, "
+"wants to hire me for a job. He'll give me the details inside his house in "
+"Dawnstar.\""
+msgstr ""
+"\"신비의 여명 교단에 관한 박물관의 주인, 사일러스 베수이우스가 날 고용해 어"
+"떤 일을 시키려는 것 같다. 던스타에 있는 그의 집에서 자세한 사항을 알려줄 것이"
+"다.\""
+
+#: 9182
+#, fuzzy
+msgctxt "9182"
+msgid "\"<Alias=Brute> was killed, through no fault of my own.\""
+msgstr "\"<Alias=Brute>은 죽었지만, 내게는 책임이 없다. \""
+
+#: 9183
+#, fuzzy
+msgctxt "9183"
+msgid "I got carried away and killed <Alias=Brute>."
+msgstr "너무 흥분해서 <Alias=Brute>을 죽여버렸다. "
+
+#: 9185
+#, fuzzy
+msgctxt "9185"
+msgid ""
+"<Alias=Brute> has been causing trouble for someone around <Alias=BruteTown>. "
+"I need to rough <Alias.PronounObj=Brute> up to remind <Alias."
+"PronounObj=Brute> of <Alias.PronounPosObj=Brute> obligations."
+msgstr ""
+"<Alias=Brute>가 <Alias=BruteTown> 주변에서 문제를 일으키고 있다. 다른 사람을 "
+"아프게 하면 본인도 따끔한 맛을 볼 수 있다는 사실을 알려줘야 한다."
+
+#: 9214
+#, fuzzy
+msgctxt "9214"
+msgid "I found <Alias=Victim> in <Alias=Lair> but <Alias.Pronoun=Victim> died."
+msgstr ""
+"<Alias=Lair>에서 <Alias=Victim>를 찾았다. 그러나 <Alias.Pronoun=Victim>는 죽"
+"어있었다. "
+
+#: 9215
+#, fuzzy
+msgctxt "9215"
+msgid ""
+"I rescued <Alias=Victim> from <Alias=Lair> and escorted <Alias."
+"PronounObj=Victim> back to <Alias=VictimHome>."
+msgstr ""
+"<Alias=Victim>를 <Alias=Lair>에서 구출하고 <Alias.PronounObj=Victim>를 "
+"<Alias=VictimHome>에 데려다 주었다. "
+
+#: 9310
+#, fuzzy
+msgctxt "9310"
+msgid ""
+"Potema has been summoned from beyond the grave and is gathering power. Falk "
+"has sent me to Styrr to get the key to Potema's Catacombs."
+msgstr ""
+"포테마는 무덤 너머로부터 부활하고 있었으며 동시에 힘을 모으고 있었다. 펄크는 "
+"포테마의 지하무덤으로 통하는 열쇠를 얻도록 나를 스티르(Styrr)에게 보냈다."
+
+#: 9773
+#, fuzzy
+msgctxt "9773"
+msgid ""
+"\"\"\"Sam\"\" turned out to be the daedric prince of debauchery, Sanguine. "
+"He spurred me on during a drunken night of revelry that crossed all of "
+"Skyrim. I've acquired the Sanguine Rose for my troubles.\""
+msgstr ""
+"\"'샘'의 정체는 바로 방탕한 데이드릭 프린스, 생귄이라는 자였다. 스카이림 전체"
+"가 흥청대는 축제 분위기에 취한 그날 밤, 그 자는 날 골려주기로 작정한 듯 하"
+"다. 날 귀찮게 한 대가로 생귄의 장미를 얻을 수 있었다. \""
+
+#: 9776
+#, fuzzy
+msgctxt "9776"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. Ysolda in Whiterun has told me to "
+"look for Sam in Morvunskar."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 화이트런에 있는 이솔다는 모르번스카에"
+"서 샘을 찾아 보라고 말했다. "
+
+#: 9783
+#, fuzzy
+msgctxt "9783"
+msgid ""
+"\"I have awoken from a night of debauchery with no idea what happened. Sam "
+"and the staff he promised me have disappeared. A note of debt I gave to "
+"Ennis in Rorikstead has directed me to Ysolda in Whiterun, she might be able "
+"to direct me to Sam.\""
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 내가 에니스에게 줬던 차용증에는 화이트"
+"런에 사는 이솔다의 이름이 적혀있었다. 그녀라면 샘이 있는 곳을 알고 있을지도 "
+"모른다."
+
+#: 9784
+#, fuzzy
+msgctxt "9784"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. Ennis in Rorikstead will tell me "
+"more about what happened once I return the goat I stole from him."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 로릭스테드에 사는 에니스에게 도둑맞은 "
+"염소를 찾아주면 무슨 일이 있었던 건지 좀 더 말해줄 것이다."
+
+#: 9786
+#, fuzzy
+msgctxt "9786"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. The priestesses of Dibella have "
+"told me to ask about Sam in Rorikstead."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 디벨라의 여사제는 내가 로릭스테드 출신"
+"의 샘의 행방을 묻자 대답해주었다. "
+
+#: 9788
+#, fuzzy
+msgctxt "9788"
+msgid ""
+"I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he "
+"promised me have disappeared. I have no idea how I got here but a priestess "
+"has told me I trashed the Temple. The priestess might tell me what happened "
+"to Sam and the staff if I pick up the place."
+msgstr ""
+"\"나는 마르카스에 있는 디벨라의 사원에서 깨어났다. 샘과 그에게 받기로 한 지팡"
+"이는 사라졌다. 내가 어떻게 여기에 있는건지는 모르겠지만, 여사제의 말에 의하"
+"면 내가 이곳 사원에서 난동을 피웠다고 한다. 신전을 깨끗이 청소하면, 샘과 지팡"
+"이의 행방에 대해 말해 줄지도 모른다.\""
+
+#: 9789
+#, fuzzy
+msgctxt "9789"
+msgid ""
+"I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he "
+"promised me have disappeared."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. "
+
+#: 10261
+#, fuzzy
+msgctxt "10261"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. I met with her contact, Malborn, who is going to smuggle "
+"some of my equipment into the Thalmor ambassador's manor. I'm going to "
+"infiltrate the manor posing as a guest at the ambassador's party. Once "
+"inside, I need to meet up with Malborn and figure out a way to slip away "
+"from the party without being caught.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심하고 있다. 그녀의 연"
+"락책인 맬본이 내 장비를 탈모어 대사관으로 밀반입해 준다고 한다. 나는 대사의 "
+"파티 손님으로 가장하여 저택에 잠입할 생각이다. 대사관에 들어간 이후에는, 맬본"
+"과 접촉하여 파티 손님들이 눈치채지 못하게 빠져나갈 방법을 찾아야 한다.\""
+
+#: 10264
+#, fuzzy
+msgctxt "10264"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. She's going to help me infiltrate the Thalmor ambassador's "
+"manor and find out what they know about the dragons. I should meet with her "
+"contact, Malborn, in the Winking Skeever Inn in Solitude.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심하고 있다. 그녀는 내"
+"가 탈모어 대사의 저택에 잠입하여 그들이 드래곤에 대해 무엇을 알고 있는지 알아"
+"낼 수 있도록 도와주겠다고 한다. 나는 솔리튜드의 윙크하는 스키버 여관에서 그녀"
+"의 연락책인 맬본과 만나야 한다.\""
+
+#: 10299
+#, fuzzy
+msgctxt "10299"
+msgid ""
+"\"The Thalmor are just as puzzled as we are about why dragons are returning. "
+"I learned that they are looking for a Blade named Esbern, who Delphine says "
+"is an expert on ancient dragon lore. We need to find him before the Thalmor "
+"do.\""
+msgstr ""
+"\"드래곤이 부활하는 이유를 모르는 건 비단 우리뿐만이 아니었다. 탈모어 측도 "
+"이 일에 당황한 나머지, 에스번이라는 이름을 가진 블레이드를 찾고 있었던 것이"
+"다. 델핀의 말에 의하면 그 자는 고대 드래곤의 구전 지식등에 해박한, 드래곤 전"
+"문가라고 한다. 우리는 탈모어 녀석들 보다 먼저 그를 찾아야만 한다. \""
+
+#: 11121
+#, fuzzy
+msgctxt "11121"
+msgid ""
+"\"I'm imprisoned inside Cidhna Mine, framed for Eltrys' murder. I have to "
+"find Madanach, the King in Rags, and clear my name.\""
+msgstr ""
+"나는 엘트리스를 죽인 누명을 쓰고 시드나 광산에 수감됐다. 나는 레그 킹 마다나"
+"크를 찾아야 한다. 그리고 누명을 벗어야 한다. "
+
+#: 11330
+#, fuzzy
+msgctxt "11330"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"With the help of the Jarl of Whiterun, I've trapped the dragon Odahviing in "
+"Dragonsreach. Now to interrogate Odahviing and learn the location of "
+"Alduin's lair so I can finish him off, once and for all.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 화이트런 영주의 협조"
+"로 드래곤의 안식처에서 오다빙을 사로잡을 수 있었다. 이제 오다빙을 심문해 알두"
+"인의 둥지 위치만 알면, 녀석을 완전히 끝장낼 수 있다.\""
+
+#: 11332
+#, fuzzy
+msgctxt "11332"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. "
+"I've learned a Shout which is the name of one of Alduin's allies, which "
+"should serve to bring him to the Dragonsreach courtyard so I can trap him "
+"there. Then I can interrogate the dragon and learn the location of Alduin's "
+"lair so I can finish him off, once and for all. \""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 화이트런의 영주는 드"
+"래곤의 안식처에서 드래곤을 사로잡을 수 있도록 협조해주기로 했다. 알두인의 동"
+"료 녀석의 이름을 가진 '포효'도 배웠다. 이제 이 포효를 이용하면 그 드래곤을 드"
+"래곤의 안식처 앞 공처로 불러내, 녀석을 사로 잡을 수 있다. 그 드래곤 놈을 심문"
+"해서 알두인의 둥지의 위치를 알아내기만 하면, 녀석을 완전히 끝장낼 수 있다.\""
+
+#: 11336
+#, fuzzy
+msgctxt "11336"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. "
+"Then I can interrogate the dragon and learn the location of Alduin's lair so "
+"I can finish him off, once and for all.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 화이트런의 영주는 드"
+"래곤의 안식처에서 드래곤을 사로잡을 수 있도록 협조해주기로 했다. 이제 그 드래"
+"곤을 심문해서 알두인의 둥지 위치를 알아내기만 하면, 녀석을 완전히 끝장낼 수 "
+"있다.\""
+
+#: 11337
+#, fuzzy
+msgctxt "11337"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. "
+"Now I need some way to lure a dragon into the trap. Esbern or Paarthurnax "
+"might be able to help.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 화이트런의 영주는 드"
+"래곤의 안식처에서 드래곤을 사로잡을 수 있도록 협조하겠다고 한다. 이제 그 드래"
+"곤 녀석을 함정으로 끌어들일 미끼가 필요하다. 에스번이나 파써넥스라면 방법이 "
+"있을 것이다. \""
+
+#: 11342
+#, fuzzy
+msgctxt "11342"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"I've learned that Dragonsreach, the Jarl's palace in Whiterun, was once used "
+"to imprison a dragon. If I can arrange a truce in the civil war, the Jarl of "
+"Whiterun has agreed to help me trap a dragon in Dragonsreach. Then I can "
+"interrogate the dragon and learn the location of Alduin's lair so I can "
+"finish him off, once and for all.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 나는 화이트런에 있"
+"는 영주의 성, 드래곤의 안식처가 사실 드래곤을 감금하기 위해 사용된 건물이었다"
+"는 걸 알게 되었다. 화이트런의 영주는, 내가 내전의 휴전 협정을 체결할 수 있게 "
+"도와준다면, 자신도 드래곤의 안식처에서 드래곤을 사로잡을 수 있도록 협조하겠다"
+"고 했다. 이제 그 드래곤을 심문해서 알두인의 둥지 위치를 알아내야 한다.\""
+
+#: 11346
+#, fuzzy
+msgctxt "11346"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"I've learned that Dragonsreach, the Jarl's palace in Whiterun, was once used "
+"to imprison a dragon. I need to persuade the Jarl of Whiterun to help me "
+"trap a dragon in Dragonsreach.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 나는 화이트런에 있"
+"는 영주의 성, 드래곤의 안식처가 사실 드래곤을 감금하기 위해 사용된 건물이었다"
+"는 걸 알게 되었다. 드래곤을 잡기 위해서는 드래곤의 안식처를 사용해야 한다는 "
+"걸 영주에게 설득시켜야 한다.\""
+
+#: 11382
+#, fuzzy
+msgctxt "11382"
+msgid ""
+"\"The Jarl of Whiterun won't help me capture a dragon as long as the civil "
+"war is raging. If I can get the Greybeards to host a peace council, I can "
+"try to convince the Imperials and the Stormcloaks to agree to a truce in "
+"order to defeat Alduin, who is a threat to both sides in the civil war.\""
+msgstr ""
+"\"내전이 극심한 상황에서, 화이트런의 영주가 드래곤을 사로잡는 일을 돕기란 어"
+"려워 보인다. 혹시라도 내가 평화 협정의 주재를 그레이비어드에게 맡길 수만 있다"
+"면, 제국군과 스톰클록군 양측 모두에게 위협이 되고 있는 알두인을 물리치기 위"
+"한, 휴전 협정을 체결하게 할 수 있을지도 모른다.\""
+
+#: 11697
+msgctxt "11697"
+msgid ""
+"\"I have joined the Companions, the legendary warrior band of Whiterun.\""
+msgstr ""
+
+#: 11702
+msgctxt "11702"
+msgid ""
+"\"The legendary warrior band of Whiterun, the Companions have agreed to let "
+"me join them, if I can handle some preliminary tasks for them.\""
+msgstr ""
+
+#: 11759
+#, fuzzy
+msgctxt "11759"
+msgid ""
+"\"Boethiah revealed herself to me. I am to slay her previous champion, and "
+"having done so, don the Ebony Mail. So doing, she will make me her champion."
+"\""
+msgstr ""
+"\"보에시아가 내 앞에 나타났다. 보에시아의 옛 투사를 죽여 암흑의 미늘갑옷을 입"
+"으면, 그녀는 나를 새 투사로 임명할 것이다. \""
+
+#: 11760
+#, fuzzy
+msgctxt "11760"
+msgid ""
+"Boethiah has appeared using <Alias=DeadFriend>'s corpse as a vessel. She "
+"will give a special task to whichever of her cultists are left alive after "
+"we fight to the death."
+msgstr ""
+"\"보에시아는 <Alias=DeadFriend>의 시체를 그릇으로 사용하여 현신했다. 신도들끼"
+"리 싸움을 벌여, 마지막까지 살아남은 자에게 특별한 임무를 주겠다고 했다.\""
+
+#: 11764
+#, fuzzy
+msgctxt "11764"
+msgid ""
+"\"I am to lead someone to the Shrine of Boethiah, instruct them to touch the "
+"Pillar of Sacrifice, and once trapped by it's magic, slay them. If I do this "
+"Boethiah will appear.\""
+msgstr ""
+"\"누군가를 보에시아의 성소로 유인해, '희생자의 기둥'을 만지게 하면, 마법의 덫"
+"에 걸려 그를 죽일 수 있다. 이렇게 하면 보에시아가 나타날 것이다.\""
+
+#: 11770
+#, fuzzy
+msgctxt "11770"
+msgid ""
+"I found a book that mentioned a cult of Boethiah in the mountains near "
+"Windhelm."
+msgstr ""
+"윈드헬름 근처 산에 있는 보에시아를 숭배하는 교단을 다룬 책을 발견했다. "
+
+#: 11785
+#, fuzzy
+msgctxt "11785"
+msgid ""
+"I've found a strange gem. An otherworldly voice is commanding me to bring it "
+"to Mount Kilkreath."
+msgstr ""
+"이상한 보석을 찾아냈다. 다른 세상의 목소리가 그 보석을 킬크리스 산으로 가져오"
+"라고 내게 명령하고 있다."
+
+#: 11899
+#, fuzzy
+msgctxt "11899"
+msgid ""
+"\"Nurelion's assistant, Quintus, believes he's found a way to repair the "
+"White Phial, and has enlisted me to track down some materials for him. \""
+msgstr ""
+"\"누렐리온의 조수 퀸투스는 약병을 복구할만한 방법을 찾았다고 하면서, 나에게 "
+"몇가지 재료를 찾아내 달라고 요청하였다. \""
+
+#: 11900
+#, fuzzy
+msgctxt "11900"
+msgid ""
+"\"Nurelion's assistant, Quintus, believes he's found a way to repair the "
+"White Phial.\""
+msgstr "누렐리온의 조수 퀸투스는 약병을 복구할만한 방법을 찾았다고 한다."
+
+#: 11931
+#, fuzzy
+msgctxt "11931"
+msgid "I have defeated Potema and been rewarded by Falk Firebeard."
+msgstr ""
+"나는 포테마를 패배시켰으며 그 댓가로 펄크 파이어비어드에게 보상을 받았다. "
+
+#: 12486
+#, fuzzy
+msgctxt "12486"
+msgid ""
+"<Alias=Questgiver> says that the Companions have been waiting for my return. "
+"I'm supposed to follow <Alias.PronounObj=Questgiver>."
+msgstr "<Alias=Questgiver>가 말하길"
+
+#: 12496
+#, fuzzy
+msgctxt "12496"
+msgid ""
+"Vilkas and I avenged Kodlak's death by bringing ruin to the Silver Hand. "
+msgstr "빌카스와 난 실버핸드를 폐허로 만들어 코들랙의 죽음에 대해 복수했다.  "
+
+#: 12497
+#, fuzzy
+msgctxt "12497"
+msgid ""
+"Vilkas has come with me to avenge the death of Kodlak by wiping out the "
+"Silver Hand."
+msgstr ""
+"\"코들랙의 죽음에 대한 복수를 위해, 빌카스와 함께 실버핸드를 괴멸시켜야 한다."
+"\""
+
+#: 13113
+#, fuzzy
+msgctxt "13113"
+msgid ""
+"\"I have confronted and stopped a group of necromancers attempting to summon "
+"Potema, the Wolf Queen, in Wolfskull Cave. I should return to Falk Firebeard "
+"with the news.\""
+msgstr ""
+"나는 늑대해골 동굴에서 늑대여왕 포테마를 부활시키려는 시도를 하고 있는 강령술"
+"사 무리와 마주쳤으며 그들을 저지시켰다. 나는 이러한 소식을 가지고 펄크 파이어"
+"비어드에게 돌아가야 한다."
+
+#: 14515
+msgctxt "14515"
+msgid ""
+"\"The most naturally talented warriors in Tamriel, the Redguards of "
+"Hammerfell have a hardy constitution and a natural resistance to poison. "
+"They can call upon an Adrenaline Rush in combat.\""
+msgstr ""
+
+#: 15283
+#, fuzzy
+msgctxt "15283"
+msgid ""
+"Thieves stolen Finn's Lute from the Bards College over a year ago. Inge Six-"
+"Fingers has asked me to recover the lute from their stronghold. "
+msgstr ""
+"\"약 1년전, 음유시인 대학에 도둑이 들어 핀의 류트를 훔쳐갔다. 육손이 잉거는 "
+"녀석들의 요새에서 류트를 되찾아 달라고 부탁했다. \""
+
+#: 15297
+#, fuzzy
+msgctxt "15297"
+msgid ""
+"Giraud Gemane of the Bards College has found a clue to the location of the "
+"legendary drum of Rjorn. He's asked me to go to Halldir's Cairn and retrieve "
+"it."
+msgstr ""
+"음유시인 대학의 지라우드 저메인이 전설적인 욘의 드럼이 있는 곳에 대한 단서를 "
+"발견했다. 그는 내게 홀디어의 돌무덤으로 가서 그 드럼을 찾아오라고 부탁했다."
+
+#: 15875
+#, fuzzy
+msgctxt "15875"
+msgid ""
+"\"Maven Black-Briar has sent me to Whiterun where I am to meet with someone "
+"named Mallus Maccius. Together, our goal is to bring down one of Maven's "
+"competitors, Honningbrew Meadery and discover where he obtained the "
+"financing to take her on.\""
+msgstr ""
+"메이븐 블랙브라이어는 내게 화이트런 가보라고 했다. 그리고 그곳에서 맬러스 마"
+"키어스와 합류했다. 우리의 목표는 메이븐의 경쟁상대인 허닝브류 양조장의 명성"
+"을 땅에 떨어트리는 것이다. 또한 양조장 주인이 어디서 자금을 조달하고 있는지 "
+"알아내야 한다. "
+
+#: 19102
+#, fuzzy
+msgctxt "19102"
+msgid ""
+"\"Meridia has commanded me to enter Kilkreath Ruins, destroy Malkoran, and "
+"retrieve the artifact Dawnbreaker. I will need to guide a beam of light "
+"through the ruins which will open the way for me.\""
+msgstr ""
+"\"메리디아는 내게 킬크리스 유적으로 가서 말코런을 처치하고, 전설의 무기인 여"
+"명의 파괴자를 회수해 오라고 명했다. 길을 열기 위해선 광선이 유적을 통과할 수 "
+"있도록 인도해야 한다.\""
+
+#: 26550
+msgctxt "26550"
+msgid ""
+"\"This reptilian race, well-suited for the treacherous swamps of their Black "
+"Marsh homeland, has developed a natural resistance to diseases and the "
+"ability to breathe underwater. They can call upon the Histskin to regenerate "
+"health very quickly.\""
+msgstr ""
+
+#: 28190
+#, fuzzy
+msgctxt "28190"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. One of his dragon allies may be able to tell me where he's gone. "
+"With the help of the Jarl of Whiterun, I've trapped the dragon Odahviing in "
+"Dragonsreach. Odahviing revealed that Alduin's lair is located in the "
+"ancient temple of Skuldafn, which is only accessible by air. Odahviing has "
+"offered to take me there, in return for his freedom.\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 화이트런 영주의 협조"
+"로 드래곤의 안식처에서 오다빙을 사로잡을 수 있었다. 오다빙은 알두인의 둥지가 "
+"고대 스컬다픈의 사원안에 있다고 실토했다. 그곳은 오직 하늘로만 접근할 수 있으"
+"며, 자신을 풀어준다면 나를 그곳까지 데려다 주겠다며 거래를 제안했다.\""
+
+#: 29793
+msgctxt "29793"
+msgid ""
+"\"The most naturally talented warriors in Tamriel, the Redguards of "
+"Hammerfell have a hardy constitution and a natural resistance to poison. "
+"They can call upon an Adrenaline Rush in combat.\""
+msgstr ""
+
+#: 37819
+#, fuzzy
+msgctxt "37819"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. Ysolda in Whiterun will give me "
+"more information about Same once I return the ring I borrowed from her to "
+"give to a hagraven Witchmist Grove."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 화이트런에 사는 이솔다는 자신에게 빌려"
+"갔던 반지를 마녀안개 숲에 사는 해그레이븐에게 돌려받아 찾아오면 샘에 대한 정"
+"보를 주겠다고 한다."
+
+#: 38617
+msgctxt "38617"
+msgid ""
+"\"Hailing from the province of Elsweyr, they are intelligent, quick, and "
+"agile.  They make excellent thieves due to their natural stealthiness. All "
+"Khajiit can see in the dark at will and have unarmed claw attacks.\""
+msgstr ""
+
+#: 39998
+msgctxt "39998"
+msgid ""
+"\"Hailing from the province of Elsweyr, they are intelligent, quick, and "
+"agile.  They make excellent thieves due to their natural stealthiness. All "
+"Khajiit can see in the dark and have deadly claw attacks.\""
+msgstr ""
+
+#: 41094
+msgctxt "41094"
+msgid ""
+"\"This reptilian race, well-suited for the treacherous swamps of their Black "
+"Marsh homeland, has developed a natural resistance to diseases and the "
+"ability to breathe underwater. They can call upon the Histskin to regenerate "
+"health very quickly.\""
+msgstr ""
+
+#: 41716
+#, fuzzy
+msgctxt "41716"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. She's going to talk to her contacts about how we can "
+"infiltrate the Thalmor Embassy.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심하고 있다. 그녀는 어"
+"떻게 하면 탈모어 대사관에 잠입할 수 있을지, 자신의 연락책과 상의해보겠다고 한"
+"다.\""
+
+#: 42520
+#, fuzzy
+msgctxt "42520"
+msgid ""
+"I helped repair the White Phial in time for Nurelion to see it before he "
+"died. "
+msgstr ""
+"나는 누렐리온이 죽기 전에 하얀 유리병을 볼 수 있도록 복구하는 것을 도왔다. "
+
+#: 42697
+msgctxt "42697"
+msgid ""
+"\"Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. "
+"They are skilled with combat and magic. Anywhere gold coins might be found, "
+"Imperials always seem to find a few more. They can call upon the Voice of "
+"the Emperor to calm an enemy.\""
+msgstr ""
+
+#: 43258
+#, fuzzy
+msgctxt "43258"
+msgid ""
+"Windhelm is plagued by a shadowy killer. I've been asked to help investigate "
+"the latest murder."
+msgstr ""
+"윈드헬름은 정체를 알 수 없는 살인자로 인해 골치를 썩이고 있다. 나는 최근에 일"
+"어난 살인의 조사를 돕도록 요청받았다. "
+
+#: 43503
+#, fuzzy
+msgctxt "43503"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. Ysolda in Whiterun will give me "
+"more information about Same once I return the ring I borrowed from her to "
+"give to someone in Witchmist Grove."
+msgstr ""
+"\"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는"
+"다. 샘과 그가 주기로 한 지팡이는 사라졌다. 화이트런에 사는 이솔다는 자신에게 "
+"빌려갔던 반지를 마녀안개 숲에 사는 누군가로부터 받아와 돌려준다면, 샘에 관한 "
+"정보를 주겠다고 한다.\""
+
+#: 44585
+#, fuzzy
+msgctxt "44585"
+msgid ""
+"Potema has been summoned from beyond the grave. I've defeated her in the "
+"Catacombs and retrieved her bones. I must return them to Styrr for blessing "
+"and tell Falk Potema has been defeated."
+msgstr ""
+"포테마는 무덤 너머로부터 부활하고 있었다. 나는 지하묘지에서 포테마를 패배시켰"
+"으며 그녀의 뼈를 회수하였다. 나는 정화를 위하여 그녀의 유해를 스티르에게 전해"
+"줘야 하며 펄크에게 포테마를 패배시켰다는 사실을 말해야 한다. "
+
+#: 45414
+#, fuzzy
+msgctxt "45414"
+msgid ""
+"\"Silus Vesuius is offering me gold to retrieve the three pieces of "
+"Mehrunes' Razor from their current owners. Drascua has the pommel, Ghunzul "
+"has the blade shards, and Jorgen has the hilt.\""
+msgstr ""
+"\"사일러스 베수이우스는 '메이룬스의 칼날' 3개의 파편을 찾아 오는 일을 의뢰했"
+"다. 드래스큐아가 손잡이 부분을, 건줄이 칼날 파편을, 요르겐이 칼자루 부분을 가"
+"지고 있다.\""
+
+#: 51210
+#, fuzzy
+msgctxt "51210"
+msgid ""
+"\"Brynjolf has promised me more work if I'm able to locate him at a tavern "
+"called the Ragged Flagon. Judging from the dangerous nature of its location, "
+"it seems as though he's having me perform some type of initiation, but I "
+"can't be certain.\""
+msgstr ""
+"\"브린욜프는 내게 오래된 술병이라는 술집으로 자길 찾아올 수 있다면, 더 많은 "
+"일거리를 주겠다고 약속했다. 그 장소의 위험스런 주변 환경으로 보아, 아마 이건 "
+"일종의 가입 절차로 보이지만, 아직 확실하진 않다.\""
+
+#: 53816
+#, fuzzy
+msgctxt "53816"
+msgid ""
+"\"I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he "
+"promised me have disappeared. I have no idea how I got here but a priestess "
+"has told me I trashed the Temple. I have cleaned up the Temple, if I "
+"apologize to the priestess she might tell me what happened to Sam and the "
+"staff.\""
+msgstr ""
+"\"나는 마르카스에 있는 디벨라의 사원에서 깨어났다. 샘과 그에게 받기로 한 지팡"
+"이는 사라졌다. 내가 어떻게 여기에 있는건지는 모르겠지만, 여사제의 말에 의하"
+"면 내가 이곳 사원에서 난동을 피웠다고 한다. 신전을 깨끗이 청소하고 그 여사제"
+"에게 사과하면, 샘과 지팡이의 행방에 대해 말해 줄지도 모른다.\""
+
+#: 54000
+msgctxt "54000"
+msgid ""
+"\"Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. "
+"They are skilled with combat and magic. Anywhere gold coins might be found, "
+"Imperials always seem to find a few more. They can call upon the Voice of "
+"the Emperor to calm an enemy.\""
+msgstr ""
+
+#: 55755
+#, fuzzy
+msgctxt "55755"
+msgid ""
+"\"After I defeated Alduin on the top of the Throat of the World, he fled "
+"from me. I need to locate his lair so I can finish him off, once and for all."
+"\""
+msgstr ""
+"\"세계의 목 정상에서 알두인을 물리쳤지만, 결국 그는 도망가고 말았다. 녀석의 "
+"드래곤 동료라면, 그가 어디로 갔는지 알 수 있을지 모른다. 녀석의 둥지 위치를 "
+"알아내서, 완전히 끝장내야 한다.\""
+
+#: 56019
+#, fuzzy
+msgctxt "56019"
+msgid ""
+"I have awoken from a night of debauchery with no idea what happened. Sam and "
+"the staff he promised me have disappeared. Ennis in Rorikstead will tell me "
+"more about what happened once I return the goat I stole from him."
+msgstr ""
+"방탕한 밤을 보내고 눈을 떴다. 하지만 무슨 일이 있었는지 기억이 나질 않는다. "
+"샘과 그가 주기로 한 지팡이는 사라졌다. 로릭스테드에 사는 에니스에게 도둑맞은 "
+"염소를 찾아주면 무슨 일이 있었던 건지 좀 더 말해 줄 것이다. "
+
+#: 57305
+#, fuzzy
+msgctxt "57305"
+msgid "Arrows that hit the shield do no damage."
+msgstr "방패로 화살을 막아내면 피해를 받지 않습니다."
+
+#: 58536
+msgctxt "58536"
+msgid ""
+"\"Citizens of Skyrim, they are a tall and fair-haired people.  Strong and "
+"hardy, Nords are famous for their resistance to cold and their talent as "
+"warriors. They can use a Battlecry to make opponents flee.\""
+msgstr ""
+
+#: 59696
+#, fuzzy
+msgctxt "59696"
+msgid ""
+"Pickpocketing bonus of 100%. Item weight and value reduce pickpocketing odds."
+msgstr ""
+"소매치기가 100% 향상됩니다. 물품의 무게와 가치에 따라 성공률이 감소합니다."
+
+#: 59866
+msgctxt "59866"
+msgid ""
+"\"In addition to their quick and perceptive grasp of spellcraft, even the "
+"humblest of Bretons can boast a resistance to shock attacks. They are "
+"particularly skilled at conjuration magic.\""
+msgstr ""
+
+#: 65068
+msgctxt "65068"
+msgid ""
+"\"The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are "
+"prized for their craftsmanship. Orc troops in Heavy Armor are among the "
+"finest in the Empire, and are fearsome when using their Berserker Rage.\""
+msgstr ""
+
+#: 65183
+#, fuzzy
+msgctxt "65183"
+msgid ""
+"\"I discovered that Wuunferth the Unliving was the Butcher of Windhelm, and "
+"helped bring him to justice. \""
+msgstr ""
+"\"나는 '속죄하는' 운페르스가 윈드헬름의 도살자라는 것을 알아냈고, 그가 법의 "
+"심판을 받는 것을 도왔다.\""
+
+#: 65211
+msgctxt "65211"
+msgid ""
+"\"The clanfolk of the Western Valenwood forests, also known as \"\"Bosmer."
+"\"\" Wood elves make good scouts and thieves, and there are no finer archers "
+"in all of Tamriel. They have natural resistances to both poisons and "
+"diseases. They can Command Animals to fight for them.\""
+msgstr ""
+
+#: 65359
+msgctxt "65359"
+msgid ""
+"\"Also known as \"\"Dunmer\"\" in their homeland of Morrowind, dark elves "
+"are noted for their stealth and magic skills. They are naturally resistant "
+"to fire and can call upon their Ancestor's Wrath to surround themselves in "
+"fire.\""
+msgstr ""
+
+#: 65726
+msgctxt "65726"
+msgid ""
+"\"Also known as \"\"Dunmer\"\" in their homeland of Morrowind, dark elves "
+"are noted for their stealth and magic skills. They are naturally resistant "
+"to fire and can call upon their Ancestor's Wrath to surround themselves in "
+"fire.\""
+msgstr ""
+
+#: 65770
+msgctxt "65770"
+msgid ""
+"\"Also known as \"\"Altmer\"\" in their homeland of Summerset Isle, the high "
+"elves are the most strongly gifted in the arcane arts of all the races. They "
+"can call upon their Highborn power to regenerate Magicka quickly.\""
+msgstr ""
+
+#: 65844
+#, fuzzy
+msgctxt "65844"
+msgid ""
+"A representative from Dragon Bridge has appealed to the court in Solitude "
+"for help investigating Wolfskull Cave. Falk Firebeard has asked me to clear "
+"out the cave."
+msgstr ""
+"드래곤의 다리 마을 대표가 솔리튜드 궁전에서 늑대해골 동굴에 대하여 조사해달라"
+"고 간청하였다. 펄크 파이어비어드는 나에게 그 임무를 맡아달라고 요청했다."
+
+#: 65881
+msgctxt "65881"
+msgid ""
+"\"Also known as \"\"Altmer\"\" in their homeland of Summerset Isle,  the "
+"high elves are the most strongly gifted in the arcane arts of all the races. "
+"They can call upon their Highborn power to regenerate magicka quickly.\""
+msgstr ""
+
+#: 66107
+#, fuzzy
+msgctxt "66107"
+msgid ""
+"A representative from Dragon Bridge has appealed to the court in Solitude "
+"for help investigating Wolfskull Cave. Falk Firebeard is looking for someone "
+"to look into the issue."
+msgstr ""
+"드래곤의 다리 마을 대표가 솔리튜드 궁전에서 늑대해골 동굴에 대하여 조사해달라"
+"고 간청하였다. 펄크 파이어비어드는 이 문제를 해결해줄 사람을 찾고 있다."
+
+#: 66138
+msgctxt "66138"
+msgid ""
+"\"The clanfolk of the Western Valenwood forests, also known as \"\"Bosmer."
+"\"\" Wood elves make good scouts and thieves, and there are no finer archers "
+"in all of Tamriel. They have natural resistances to both poisons and "
+"diseases. They can Command Animals to fight for them.\""
+msgstr ""
+
+#: 66862
+#, fuzzy
+msgctxt "66862"
+msgid ""
+"\"The Thalmor are just as puzzled as we are about why dragons are returning. "
+"I learned that they are looking for a Blade named Esbern, who is supposed to "
+"be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in "
+"Riften, and convinced him to let me in to explain myself.\""
+msgstr ""
+"\"드래곤이 부활하는 이유를 모르는 건 비단 우리뿐만이 아니었다. 탈모어 측도 고"
+"대 드래곤 지식에 매우 해박한 드래곤 전문가, 에스번이라는 이름을 가진 블레이드"
+"를 찾고 있었던 것이다. 에스번은 리프튼에 있는 '쥐소굴' 이라는 곳에 숨어있었"
+"다. 나는 그에게 내 정체를 밝힌 뒤, 안으로 들여보내 달라고 설득했다.\""
+
+#: 66872
+#, fuzzy
+msgctxt "66872"
+msgid ""
+"\"I have helped Madanach escape Cidhna Mine, and he and his Forsworn have "
+"taken credit for all my past crime, clearing my name in the Reach.\""
+msgstr ""
+"\"나는 마다나크가 시드나 광산을 탈출하는 것을 도왔다. 덕분에 그와 포스원이 "
+"내 대신 현상금이 붙게 되었고, 리치 지방에서 내 기록은 깨끗해졌다.\""
+
+#: 66928
+#, fuzzy
+msgctxt "66928"
+msgid ""
+"Onmund has asked me to help him get an amulet with sentimental value back "
+"from Enthir."
+msgstr ""
+"온문드가 나에게 그의 추억이 담긴 목장식을 엔시르로부터 받아주기를 부탁했다. "
+
+#: 67084
+#, fuzzy
+msgctxt "67084"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. Her contact, Malborn, smuggled some of my equipment into "
+"the Thalmor ambassador's manor. I infiltrated the manor posing as a guest at "
+"the ambassador's party. Now I need to search the ambassador's office to find "
+"out what the Thalmor know about the dragons.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심하고 있다. 그녀의 연"
+"락책인 맬본이 내 장비를 탈모어 대사관으로 밀반입해 주었다. 나는 대사의 파티 "
+"손님으로 가장하여 저택에 잠입하였다. 이제 나는 탈모어가 드래곤에 대해 무엇을 "
+"알고 있는지 알아내기 위해 대사관을 조사해야 한다.\""
+
+#: 67175
+#, fuzzy
+msgctxt "67175"
+msgid ""
+"\"Enthir insists that Onmund sold him the amulet in question, and he will "
+"not go back on a trade. If, however, I can recover a particular staff for "
+"Enthir, he'll give me the amulet. I'll need to search <Alias=StaffLocation> "
+"for the staff.\""
+msgstr ""
+"\"엔시르는 온문드가 합의하에 목장식을 팔았다고 주장했고, 팔 생각이 없다고 한"
+"다. 하지만 만약에 특별한 지팡이를 엔시르에게 찾아준다면 목장식을 돌려줄 의향"
+"이 있다고 한다. <Alias=StaffLocation> 에서 지팡이를 찾아야 한다. \""
+
+#: 67357
+#, fuzzy
+msgctxt "67357"
+msgid ""
+"\"The information I obtained from Honningbrew Meadery points to the same "
+"anonymous buyer of Goldenglow Estate. If successful, this individual would "
+"have completely estranged Maven Black-Briar from the Guild and destroyed it "
+"economically. It's becoming painfully obvious that it's time to shed some "
+"light on our mysterious adversary before they have a chance to strike again."
+"\""
+msgstr ""
+"\"내가 허닝브류 양조장에서 얻은 정보는, 골든글로우 농장을 구입했던 그 익명의 "
+"구매자를 가리키고 있었다. 그의 작전이 성공했다면, 메이븐 블랙브라이어는 길드"
+"와 완전히 결별 했을테고, 그랬다면 길드는 파산했을 것이다. 그 자가 다시 길드"
+"를 공격할 기회를 엿보기 전에, 그 미지의 적의 정체가 무엇인지 확실히 밝혀내야 "
+"한다.\""
+
+#: 67365
+#, fuzzy
+msgctxt "67365"
+msgid ""
+"Mehrunes Dagon has promised to reforge his Razor if I place my hands on his "
+"altar."
+msgstr ""
+"\"메이룬스 데이건이, 그의 제단위에 양손을 올리면 메이룬스의 칼날을 다시 만들"
+"어 준다고 약속했다.\""
+
+#: 67370
+#, fuzzy
+msgctxt "67370"
+msgid ""
+"Mehrunes Dagon has asked me to kill Silus Vesuius. I will be given the "
+"reforged Razor if I succeed."
+msgstr ""
+"메이룬스 데이건은 사일러스 베수이우스를 처치하라고 명령했다. 성공하면 난 다"
+"시 만들어진 메이룬스의 칼날을 얻을 것이다. "
+
+#: 67372
+#, fuzzy
+msgctxt "67372"
+msgid "I killed an escaped criminal in <Alias=LocationHold>."
+msgstr "<Alias=LocationHold>에서 탈출한 범죄자를 처치했다. "
+
+#: 67374
+#, fuzzy
+msgctxt "67374"
+msgid ""
+"There is an escaped criminal wandering <Alias=LocationHold>. I'm supposed to "
+"track <Alias.PronounObj=Criminal> down and kill <Alias.PronounObj=Criminal>."
+msgstr ""
+"탈주범이 <Alias=LocationHold>을 방황하고 있다. <Alias.PronounObj=Criminal>을 "
+"추적해 <Alias.PronounObj=Criminal>을 잡아죽여야 한다. "
+
+#: 67384
+#, fuzzy
+msgctxt "67384"
+msgid ""
+"\"The Jarl of Whiterun wouldn't help me capture a dragon as long as the "
+"civil war was raging. Arngeir agreed to host a peace council at High "
+"Hrothgar. With Esbern's help, I persuaded General Tullius and Ulfric "
+"Stormcloak to agree to a truce in order to defeat Alduin, who is a threat to "
+"both sides in the civil war.\""
+msgstr ""
+"\"내전이 극심한 상황에서, 화이트런의 영주가 드래곤을 사로잡는 일을 돕기란 어"
+"려워 보인다. 마스터 안기어는 하이 흐로스가에서 평화 협의회를 열자는 제안을 받"
+"아들였다. 에스번의 도움으로, 양측 모두에게 위협이 되고 있는 알두인을 물리치"
+"기 위한 휴전 협정 체결 동의를 받기위해 툴리어스 장군과 울프릭 스톰클록을 설득"
+"할 수 있었다.\""
+
+#: 67475
+#, fuzzy
+msgctxt "67475"
+msgid ""
+"\"Arniel has finally revealed to me that his secret project deals with the "
+"disappearance of the dwarves, though he hasn't been clear about how his work "
+"relates to it. He's given me a warped soul gem, and asked me to find several "
+"Dwarven Convectors in the various ruins around Skyrim. I'm supposed to place "
+"the gem inside a convector, and then heat it using a spell Arniel has taught "
+"me. When I've done this several times, I should return the gem to Arniel.\""
+msgstr ""
+"아니얼이 마침내 그의 비밀 계획이 사라진 드워프들과 관계가 있다고 말해주었지"
+"만 그것과 계획이 무슨 상관이 있는지는 확실하지 않다. 그는 뒤틀린 영혼석을 주"
+"고 스카이림의 각지에 있는 드워프의 난방기를 몇개 발견해달라고 부탁했다. 영혼"
+"석을 난방기에 넣고 아니얼에게 배운 특수한 주문으로 가열시키면 된다고 한다. 몇"
+"군데에서 이 방법을 해보고 아니얼에게 영혼석을 돌려주면 된다고 한다. "
+
+#: 67489
+#, fuzzy
+msgctxt "67489"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. With the help of her contact, Malborn, I infiltrated the "
+"manor posing as a guest at the ambassador's party. I've now learned that the "
+"Thalmor are just as in the dark as we are - in fact, they're searching "
+"Riften for a Blade named Esbern, who they believe knows what the return of "
+"the dragons means.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심했다. 그녀의 연락책"
+"인 맬본의 도움으로, 나는 대사의 파티 손님으로 가장하여 저택에 잠입했다. 그 결"
+"과, 탈모어 역시 우리와 마찬가지로 상황을 파악하지 못하고 있는 것을 알아내었"
+"다. 실제로 그들은 리프튼에서 에스번이라는 이름의 블레이드를 찾고 있었다. 그"
+"가 드래곤이 돌아온 이유를 알고 있다고 판단한 듯 하다.\""
+
+#: 67513
+#, fuzzy
+msgctxt "67513"
+msgid ""
+"\"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius "
+"where the souls of Nord heroes go to feast and battle until the final "
+"reckoning. Alduin has laid some kind of soul-snare across the valley of "
+"Sovngarde, a mist where he hides and feeds upon the trapped souls. My only "
+"hope is to reach the Hall of Heroes.\""
+msgstr ""
+"\"알두인의 포탈을 지나 에세리우스의 영역인 소븐가드에 도착했다. 에세리우스는 "
+"노드 영웅의 영혼들이 최후의 심판을 받을 때까지 축제를 벌이고 전투를 즐기는 곳"
+"이다. 알두인은 소븐가드의 계곡에, 일종의 영혼을 잡을 수 있는 덫을 설치했다. "
+"숨어 있다가 그 안개 형태의 덫에 걸려든 영혼을 잡아먹는 것이다. 내게 남은 유일"
+"한 희망은 이제 영웅의 전당에 도착하는 것이다.\""
+
+#: 67614
+#, fuzzy
+msgctxt "67614"
+msgid ""
+"Onmund is grateful that I was able to deal with Enthir and return his amulet."
+msgstr ""
+"온문드는 내가 엔시르와의 거래로 목장식을 되돌려받은 것에 대해 깊은 감사를 표"
+"했다. "
+
+#: 67621
+#, fuzzy
+msgctxt "67621"
+msgid ""
+"\"Enthir agreed to return Onmund's amulet to him, and has given it to me. I "
+"need to make sure it gets back to Onmund.\""
+msgstr ""
+"\"엔시르는 온문드에게 목장식을 돌려주는 것에 동의하였고, 나에게 목장식을 주었"
+"다. 온문드에게 되돌아가자.\""
+
+#: 67624
+#, fuzzy
+msgctxt "67624"
+msgid ""
+"\"I have found the staff that Enthir wanted, and need to deliver it to him "
+"so that he'll exchange it for Onmund's amulet.\""
+msgstr ""
+"엔시르가 원했던 지팡이를 찾았다. 그에게 가서 목장식과 지팡이를 교환하자."
+
+#: 68210
+#, fuzzy
+msgctxt "68210"
+msgid ""
+"I have killed Silus Vesuius for Mehrunes Dagon. I should speak to the Lord "
+"of Destruction through his altar."
+msgstr ""
+"메이룬스 데이건의 명대로 사일러스 베수이우스를 처치했다. 제단으로 가서 파괴"
+"의 군주와 이야기하자. "
+
+#: 68212
+#, fuzzy
+msgctxt "68212"
+msgid ""
+"Thonar Silver-Blood has granted me a pardon for killing Madanach. My name "
+"has now been cleared in the Reach."
+msgstr ""
+"쏘나르 실버-블러드는 마다나크를 죽인 것으로 나를 용서했다. 리치 지역에서 내 "
+"범죄기록은 없어질 것이다. "
+
+#: 68390
+#, fuzzy
+msgctxt "68390"
+msgid ""
+"\"The Jarl of Whiterun won't help me capture a dragon as long as the civil "
+"war is raging. Arngeir has agreed to host a peace council at High Hrothgar. "
+"I need to convince the Imperials and the Stormcloaks to agree to a truce in "
+"order to defeat Alduin, who is a threat to both sides in the civil war.\""
+msgstr ""
+"\"내전이 극심한 상황에서, 화이트런의 영주가 드래곤을 사로잡는 일을 돕기란 어"
+"려워 보인다. 마스터 안기어는 하이 흐로스가에서 평화 협의회를 열자는 제안을 받"
+"아들였다. 이 내전에서 양측 모두에게 위협이 되고 있는 알두인을 물리치기 위해, "
+"제국군과 스톰클록군을 설득해야 한다..\""
+
+#: 68402
+msgctxt "68402"
+msgid ""
+"\"Health, Magicka, and Stamina do not recover while in Sunlight and are "
+"reduced by <15> points.\""
+msgstr ""
+
+#: 68428
+msgctxt "68428"
+msgid ""
+"\"Health, Magicka, and Stamina do not recover while in Sunlight and are "
+"reduced by <60> points.\""
+msgstr ""
+
+#: 68476
+#, fuzzy
+msgctxt "68476"
+msgid ""
+"\"I've once again helped Arniel with his secret, and very vague, project "
+"relating to the dwarves. He implied that he's waiting for something else, "
+"and then finally maybe I'll see what this is all about.\""
+msgstr ""
+"\"드워프들과 관계가 있는 듯한 몹시 모호한 아니얼의 비밀 계획을 다시 돕기로 했"
+"다. 그는 다른 몇 가지를 기다리고 있는 것 같은 뉘앙스를 풍기는데, 그리고나면 "
+"마침내 모든 것에 대하여 알 수 있을 것 같다.\""
+
+#: 68528
+msgctxt "68528"
+msgid ""
+"\"Health, Magicka, and Stamina do not recover while in Sunlight and are "
+"reduced by <45> points.\""
+msgstr ""
+
+#: 68541
+#, fuzzy
+msgctxt "68541"
+msgid ""
+"\"It seems that things are worse than even Delphine thought. Dragons aren't "
+"just coming back to life, they're being resurrected by other dragons. "
+"Delphine suspects that the Thalmor might be bringing dragons back for some "
+"sinister purpose. With the help of her contact, Malborn, I infiltrated the "
+"manor posing as a guest at the ambassador's party. I learned that the "
+"Thalmor are just as in the dark as we are - in fact, they're searching "
+"Riften for a Blade named Esbern, who they believe knows what the return of "
+"the dragons means.\""
+msgstr ""
+"\"상황은 델핀의 생각보다 훨씬 심각했다. 드래곤들은 그냥 살아나고 있었던게 아"
+"니라, 다른 드래곤들이 그들을 되살리고 있었던 것이다. 델핀은 탈모어 쪽에서 뭔"
+"가 사악한 의도로 드래곤들을 부활시키고 있는게 아닐까 의심했다. 그녀의 연락책"
+"인 맬본의 도움으로, 나는 대사의 파티 손님으로 가장하여 저택에 잠입했다. 그 결"
+"과, 탈모어 역시 우리와 마찬가지로 상황을 파악하지 못하고 있는 것을 알아내었"
+"다. 실제로 그들은 리프튼에서 에스번이라는 이름의 블레이드를 찾고 있었다. 그"
+"가 드래곤이 돌아온 이유를 알고 있다고 판단한 듯 하다.\""
+
+#: 68547
+msgctxt "68547"
+msgid ""
+"\"Health, Magicka, and Stamina do not recover while in Sunlight and are "
+"reduced by <30> points.\""
+msgstr ""
+
+#: 68574
+#, fuzzy
+msgctxt "68574"
+msgid ""
+"\"I've successfully altered Arniel's warped soul gem, and should return it "
+"to him. It is somehow critical to his project regarding the disappearance of "
+"the dwarves; perhaps he'll explain exactly what he's up to.\""
+msgstr ""
+"아니얼에게 받은 뒤틀린 영혼석이 성공적으로 가열되었다. 그에게 전달해야한다. "
+"어째서인지 이것이 드워프들의 실종과 관련된 그의 계획에 필수불가결한 요소라고 "
+"한다. 이번에야말로 무엇을 꾸미고 있는지 설명해줄지도 모른다. "
+
+#: 68613
+#, fuzzy
+msgctxt "68613"
+msgid ""
+"Silus Vesuius now has all three pieces of Mehrunes' Razor and wants me to "
+"help him reforge it at the Shrine of Mehrunes Dagon."
+msgstr ""
+"사일러스 베수이우스는 '메이룬스의 칼날'의 파편 3개를 모두 모았다. 메이룬스 데"
+"이건의 성소에서 이를 재조립하기 위해 협력해달라는 부탁을 내게 해왔다."
+
+#: 68641
+#, fuzzy
+msgctxt "68641"
+msgid ""
+"\"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius "
+"where the souls of Nord heroes go to feast and battle until the final "
+"reckoning. Alduin has laid some kind of soul-snare across the valley of "
+"Sovngarde, a mist where he hides and feeds upon the trapped souls. I reached "
+"the Hall of Heroes and met Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir "
+"the Old - the three heroes who I saw defeat Alduin in my vision of the past. "
+"They have been permitted by Shor, the god of the underworld, to join me in "
+"my battle against Alduin.\""
+msgstr ""
+"\"알두인의 포탈을 지나 에세리우스의 영역인 소븐가드에 도착했다. 에세리우스는 "
+"노드 영웅의 영혼들이 최후의 심판을 받을 때까지 축제를 벌이고 전투를 즐기는 곳"
+"이다. 알두인은 소븐가드의 계곡에, 일종의 영혼을 잡을 수 있는 덫을 설치했다. "
+"숨어 있다가 그 안개 형태의 덫에 걸려든 영혼을 잡아먹는 것이다. 영웅의 전당에 "
+"도착해, 과거의 환영에서 본 알두인을 물리치던 세명의 영웅 - 고믈레이스 골든힐"
+"트, 애꾸눈 헤이큰, 연륜의 펠디어를 만났다. 그 세 영웅은 명부의 신 쇼어의 허락"
+"을 받았고 나와 함께 알두인과의 결전에 참여할 것이다.\""
+
+#: 69010
+#, fuzzy
+msgctxt "69010"
+msgid ""
+"\"I have proven myself to Boethiah, and she has made me her new champion.\""
+msgstr ""
+"\"보에시아에게 내 실력을 증명하였고, 그녀는 나를 새로운 투사로 임명했다. \""
+
+#: 69012
+#, fuzzy
+msgctxt "69012"
+msgid ""
+"\"I have entered Kilkreath Ruins, destroyed Malkoran, and retrieved the "
+"artifact Dawnstar, which Meridia has bestowed upon me for my service.\""
+msgstr ""
+"킬크리스 유적으로 가서 말코런을 처치하고 전설의 무기 여명의 파괴자를 회수했"
+"다. 메리디아는 수고에 대한 보답으로 무기를 나에게 맡겼다."
+
+#: 70525
+#, fuzzy
+msgctxt "70525"
+msgid ""
+"\"The Thalmor are just as puzzled as we are about why dragons are returning. "
+"I learned that they are looking for a Blade named Esbern, who is supposed to "
+"be an expert on ancient dragon lore. I've learned that he's hiding out in "
+"the Ratway Warrens in Riften.\""
+msgstr ""
+"\"드래곤이 부활하는 이유를 모르는 건 비단 우리뿐만이 아니었다. 탈모어 측도 "
+"이 일에 당황한 나머지, 에스번이라는 이름을 가진 블레이드를 찾고 있었던 것이"
+"다. 그 자는 고대 드래곤의 구전 지식등에 해박한, 드래곤 전문가라고 한다. 나는 "
+"그 자가 리프튼에 있는 '쥐소굴 빈민가'에 숨어있다는 사실을 알아냈다.\""
+
+#: 70627
+#, fuzzy
+msgctxt "70627"
+msgid ""
+"\"The Thalmor are just as puzzled as we are about why dragons are returning. "
+"I learned that they are looking for a Blade named Esbern, who is supposed to "
+"be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in "
+"Riften, and convinced him to let me in to explain myself.\""
+msgstr ""
+"\"드래곤이 부활하는 이유를 모르는 건 비단 우리뿐만이 아니었다. 탈모어 측도 고"
+"대 드래곤 지식에 매우 해박한 드래곤 전문가, 에스번이라는 이름을 가진 블레이드"
+"를 찾고 있었던 것이다. 에스번은 리프튼에 있는 '쥐소굴 빈민가'에 숨어있었다. "
+"나는 그에게 내 정체를 밝힌 뒤, 안으로 들여보내 달라고 설득했다.\""
+
+#: 71671
+#, fuzzy
+msgctxt "71671"
+msgid "I have discovered a shrine to Boethiah in the mountains near Windhelm."
+msgstr "윈드헬름 근처의 산에서 보에시아의 사원을 발견했다."
+
+#: 74790
+#, fuzzy
+msgctxt "74790"
+msgid ""
+"\"Windhelm is plagued by a shadowy killer. I've been asked to help "
+"investigate the latest murder. Jorleif, the steward, may have advice from "
+"time to time.\""
+msgstr ""
+"윈드헬름은 정체를 알 수 없는 살인자로 인해 골치를 썩이고 있다. 나는 최근에 일"
+"어난 살인의 조사를 돕도록 요청받았다. 행정관인 욜레이프가 가끔씩 조언을 해 "
+"줄 수 있을 것이다."
+
+#: 75283
+#, fuzzy
+msgctxt "75283"
+msgid ""
+"\"I discovered that Calixto Corrium was the Butcher of Windhelm, and helped "
+"bring him to justice.\""
+msgstr ""
+"\"나는 칼릭스토 커리움이 윈드헬름의 도살자라는 것을 알아냈고, 그가 법의 심판"
+"을 받는 것을 도왔다.\""

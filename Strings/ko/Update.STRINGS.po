@@ -1,0 +1,2387 @@
+# Unofficial The Elder Scrolls V: Skyrim Korean Language Pack
+msgid ""
+msgstr ""
+"Project-Id-Version: TESV: Skyrim 1.7.7.0.6\n"
+"Report-Msgid-Bugs-To: https://github.com/hangulnori/tesv-skyrim-korean/issues\n"
+"POT-Creation-Date: 2012-03-14 15:54+0100\n"
+"PO-Revision-Date: 2012-09-26 01:35+0900\n"
+"Last-Translator: Jiyoon Jang <freshworks@gmail.com>\n"
+"Language-Team: Hangulnori\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 1
+#, fuzzy
+msgctxt "1"
+msgid "Goat"
+msgstr "염소"
+
+#: 2
+#, fuzzy
+msgctxt "2"
+msgid "Summons a Frost Atronach permanently."
+msgstr "냉기 에트로낙 영구 소환."
+
+#: 3
+#, fuzzy
+msgctxt "3"
+msgid ""
+"Summons a Storm Atronach for <dur> seconds wherever the caster is pointing."
+msgstr "<dur>초 동안 시전자 위치에 전격 에트로낙 소환."
+
+#: 4
+msgctxt "4"
+msgid "[...]"
+msgstr ""
+
+#: 5
+#, fuzzy
+msgctxt "5"
+msgid ""
+"Summons a Frost Atronach for <dur> seconds wherever the caster is pointing."
+msgstr "<dur>초 동안 시전자 위치에 냉기 에트로낙 소환."
+
+#: 6
+#, fuzzy
+msgctxt "6"
+msgid "Summons a Flame Atronach permanently."
+msgstr "화염 에트로낙 영구 소환."
+
+#: 7
+#, fuzzy
+msgctxt "7"
+msgid ""
+"Summons a Flame Atronach for <dur> seconds wherever the caster is pointing."
+msgstr "<dur>초 동안 시전자 위치에 화염 에트로낙 소환."
+
+#: 8
+#, fuzzy
+msgctxt "8"
+msgid "Conjure Frost Thrall"
+msgstr "냉기의 노예 소환"
+
+#: 9
+#, fuzzy
+msgctxt "9"
+msgid "Conjure Flame Atronach"
+msgstr "화염 에트로낙 소환"
+
+#: 10
+#, fuzzy
+msgctxt "10"
+msgid "Conjure Storm Atronach"
+msgstr "전격 에트로낙 소환"
+
+#: 11
+#, fuzzy
+msgctxt "11"
+msgid "Conjure Frost Atronach"
+msgstr "냉기 에트로낙 소환"
+
+#: 12
+#, fuzzy
+msgctxt "12"
+msgid "Conjure Flame Thrall"
+msgstr "화염의 노예 소환"
+
+#: 13
+#, fuzzy
+msgctxt "13"
+msgid "Summons a Storm Atronach permanently."
+msgstr "전격 에트로낙 영구 소환"
+
+#: 14
+#, fuzzy
+msgctxt "14"
+msgid "Conjure Storm Thrall"
+msgstr "전격의 노예 소환"
+
+#: 15
+msgctxt "15"
+msgid "\"KINECT, List of Commands\""
+msgstr ""
+
+#: 17
+msgctxt "17"
+msgid "\"KINECT, Using Shouts\""
+msgstr ""
+
+#: 20
+msgctxt "20"
+msgid "Your follower is too far to trade with. "
+msgstr ""
+
+#: 21
+msgctxt "21"
+msgid ""
+"The Kinect has failed to initialize.  Ensure that your Kinect is connected "
+"and updated.  Kinect commands have been disabled. "
+msgstr ""
+
+#: 22
+msgctxt "22"
+msgid ""
+"Your Kinect has not been calibrated. Voice commands have been disabled. "
+"Please use the Kinect Tuner to calibrate your Kinect's audio. "
+msgstr ""
+
+#: 778
+#, fuzzy
+msgctxt "778"
+msgid "Talk to the Jarl of Whiterun"
+msgstr "화이트런의 영주와 대화하라"
+
+#: 1271
+#, fuzzy
+msgctxt "1271"
+msgid "Ebony Dagger"
+msgstr "에보니 단검"
+
+#: 1412
+#, fuzzy
+msgctxt "1412"
+msgid "Get access to Hjerim"
+msgstr "흐제림(Hjerim)으로 들어가시오."
+
+#: 2147
+msgctxt "2147"
+msgid "Yes?"
+msgstr ""
+
+#: 2604
+#, fuzzy
+msgctxt "2604"
+msgid "Mzulft Aedrome"
+msgstr "므줄프트 거대시설(Mzulft Aedrome)"
+
+#: 3392
+#, fuzzy
+msgctxt "3392"
+msgid "Thalmor Embassy"
+msgstr "탈모어 대사관(Thalmor Embassy)"
+
+#: 3412
+#, fuzzy
+msgctxt "3412"
+msgid "You have a task for me?"
+msgstr "시키실 일이 있으신가요?"
+
+#: 3710
+#, fuzzy
+msgctxt "3710"
+msgid "Morvunskar"
+msgstr "모르번스카(Morvunskar)"
+
+#: 3915
+msgctxt "3915"
+msgid "Khajiit"
+msgstr ""
+
+#: 4364
+#, fuzzy
+msgctxt "4364"
+msgid "Regenerate Magicka"
+msgstr "매지카 재생"
+
+#: 4440
+#, fuzzy
+msgctxt "4440"
+msgid "I can do that."
+msgstr "내가 할 수 있어요."
+
+#: 4483
+msgctxt "4483"
+msgid "Call Storm"
+msgstr ""
+
+#: 4658
+msgctxt "4658"
+msgid "Honeyside"
+msgstr ""
+
+#: 4686
+msgctxt "4686"
+msgid "Yes?"
+msgstr ""
+
+#: 4922
+#, fuzzy
+msgctxt "4922"
+msgid "Smithing"
+msgstr "제련"
+
+#: 4964
+msgctxt "4964"
+msgid "Dark Elf"
+msgstr ""
+
+#: 5245
+#, fuzzy
+msgctxt "5245"
+msgid "Escape the Thalmor Embassy"
+msgstr "탈모어 대사관을 탈출하라"
+
+#: 5306
+msgctxt "5306"
+msgid "Breton"
+msgstr ""
+
+#: 5562
+#, fuzzy
+msgctxt "5562"
+msgid "Retrieve the pommel of Mehrunes' Razor"
+msgstr "메이룬스의 칼날받이 회수"
+
+#: 5697
+#, fuzzy
+msgctxt "5697"
+msgid "Deflect Arrows"
+msgstr "화살 쳐내기"
+
+#: 5753
+msgctxt "5753"
+msgid "Yes?"
+msgstr ""
+
+#: 6231
+#, fuzzy
+msgctxt "6231"
+msgid "Retrieve the blade shards of Mehrunes' Razor"
+msgstr "메이룬스의 칼날 조각 회수"
+
+#: 6283
+#, fuzzy
+msgctxt "6283"
+msgid "Light Fingers"
+msgstr "가벼운 손놀림"
+
+#: 6577
+#, fuzzy
+msgctxt "6577"
+msgid "Limbsplitter"
+msgstr "참격"
+
+#: 6651
+#, fuzzy
+msgctxt "6651"
+msgid "Intimidate <Alias=Brute> in <Alias=BruteTown>"
+msgstr "<Alias=BruteTown>에 사는 <Alias=Brute>을 혼내주시오"
+
+#: 6809
+msgctxt "6809"
+msgid "High Elf"
+msgstr ""
+
+#: 6981
+msgctxt "6981"
+msgid "Water Explosion"
+msgstr ""
+
+#: 7220
+#, fuzzy
+msgctxt "7220"
+msgid "Guide Meridia's Light through the temple"
+msgstr "메리디아의 빛을 사원 안으로 통과시켜라."
+
+#: 7531
+#, fuzzy
+msgctxt "7531"
+msgid "Rjorn's Drum"
+msgstr "욘의 북"
+
+#: 7988
+msgctxt "7988"
+msgid "DB07AstridCiceroDeadYesChoice"
+msgstr ""
+
+#: 8138
+#, fuzzy
+msgctxt "8138"
+msgid "The Ragged Flagon - Cistern"
+msgstr "오래된 술병 본부"
+
+#: 8422
+#, fuzzy
+msgctxt "8422"
+msgid "Skyrim"
+msgstr "스카이림"
+
+#: 8564
+#, fuzzy
+msgctxt "8564"
+msgid "Return to Brynjolf"
+msgstr "브린욜프에게 돌아가라"
+
+#: 8577
+#, fuzzy
+msgctxt "8577"
+msgid "(Optional) Smash Bersi's prized Dwarven Urn"
+msgstr "(선택) 베르시가 아끼는 드워븐 항아리를 깨트려라"
+
+#: 8579
+#, fuzzy
+msgctxt "8579"
+msgid "Collect Bersi Honey-Hand's debt"
+msgstr "'달콤한 손' 베르시에게 빚을 받아내라"
+
+#: 8585
+#, fuzzy
+msgctxt "8585"
+msgid "Collect Keerava's debt"
+msgstr "키라바에게 빚을 받아내라"
+
+#: 8589
+#, fuzzy
+msgctxt "8589"
+msgid "Locate Brynjolf at the Ragged Flagon"
+msgstr "오래된 술병(Ragged Flagon)에서 브린욜프를 만나라."
+
+#: 8598
+#, fuzzy
+msgctxt "8598"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr "<Alias=AuthorityFigure>에게 대화"
+
+#: 8600
+#, fuzzy
+msgctxt "8600"
+msgid "Catch the murderer"
+msgstr "살인자를 잡으시오"
+
+#: 8605
+#, fuzzy
+msgctxt "8605"
+msgid "Patrol the streets of the Stone Quarter at night"
+msgstr "밤에 Stone Quarter 거리를 순찰하시오"
+
+#: 8609
+#, fuzzy
+msgctxt "8609"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr "<Alias=AuthorityFigure>에게 대화"
+
+#: 8611
+#, fuzzy
+msgctxt "8611"
+msgid "Investigate Hjerim with Viola"
+msgstr "비올라와 함께 흐제림을 조사하시오"
+
+#: 8614
+#, fuzzy
+msgctxt "8614"
+msgid "Meet Viola outside of Hjerim"
+msgstr "흐제림 밖에서 비올라와 만나시오"
+
+#: 8615
+#, fuzzy
+msgctxt "8615"
+msgid "Follow up on the clues from Hjerim"
+msgstr "흐제림에서 나온 단서들을 따라가시오"
+
+#: 8617
+#, fuzzy
+msgctxt "8617"
+msgid "Look for clues"
+msgstr "단서를 찾으시오"
+
+#: 8623
+#, fuzzy
+msgctxt "8623"
+msgid "Talk to Helgird"
+msgstr "헬그리드(Helgird)와 대화하라"
+
+#: 8624
+#, fuzzy
+msgctxt "8624"
+msgid "Examine the crime scene"
+msgstr "범죄현장을 조사하시오"
+
+#: 8625
+#, fuzzy
+msgctxt "8625"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr "<Alias=AuthorityFigure>에게 대화"
+
+#: 8626
+#, fuzzy
+msgctxt "8626"
+msgid "Report to the guard"
+msgstr "경비병에게 보고"
+
+#: 8629
+#, fuzzy
+msgctxt "8629"
+msgid "Question the witnesses"
+msgstr "목격자들의 이야기를 들으시오"
+
+#: 8630
+#, fuzzy
+msgctxt "8630"
+msgid "Get assistance from Jorleif"
+msgstr "욜레이프(Jorleif)에게 도움을 요청하시오"
+
+#: 8711
+#, fuzzy
+msgctxt "8711"
+msgid "Return to Brynjolf"
+msgstr "브린욜프에게 돌아가라"
+
+#: 8712
+msgctxt "8712"
+msgid "Return to Maven Black-Briar"
+msgstr ""
+
+#: 8720
+#, fuzzy
+msgctxt "8720"
+msgid "Return to Sabjorn"
+msgstr "사브욘에게 돌아가라"
+
+#: 8725
+#, fuzzy
+msgctxt "8725"
+msgid "Poison the Honningbrew Vat"
+msgstr "허닝브류 양조실에 있는 술통에 독약을 넣어라"
+
+#: 8727
+#, fuzzy
+msgctxt "8727"
+msgid "Poison the Nest"
+msgstr "스키버의 소굴에 독약을 뿌려라"
+
+#: 8729
+#, fuzzy
+msgctxt "8729"
+msgid "Speak to Sabjorn"
+msgstr "사브욘과 대화하라"
+
+#: 8760
+#, fuzzy
+msgctxt "8760"
+msgid "Dampened Spirits"
+msgstr "너덜너덜해진 정신"
+
+#: 8906
+msgctxt "8906"
+msgid "Wabbajack"
+msgstr ""
+
+#: 9098
+#, fuzzy
+msgctxt "9098"
+msgid "Claim Mehrunes' Razor"
+msgstr "메이룬스의 칼날을 들어올리시오"
+
+#: 9103
+#, fuzzy
+msgctxt "9103"
+msgid "Speak to Mehrunes Dagon"
+msgstr "메이룬스 데이건과 대화하라"
+
+#: 9104
+#, fuzzy
+msgctxt "9104"
+msgid "Kill Silus"
+msgstr "사일러스를 죽이시오"
+
+#: 9106
+#, fuzzy
+msgctxt "9106"
+msgid "Meet Silus at the Shrine of Mehrunes Dagon"
+msgstr "메이룬스 데이건의 성소에서 사일러스와 만나시오"
+
+#: 9117
+#, fuzzy
+msgctxt "9117"
+msgid "Bring the blade shards to Silus"
+msgstr "칼날 파편을 사일러스에게 가져가시오"
+
+#: 9121
+#, fuzzy
+msgctxt "9121"
+msgid "Speak to Silus inside his house"
+msgstr "사일러스의 집에서 그와 대화하시오"
+
+#: 9128
+#, fuzzy
+msgctxt "9128"
+msgid "Pieces of the Past"
+msgstr "과거의 조각들"
+
+#: 9178
+#, fuzzy
+msgctxt "9178"
+msgid "Return to <Alias.ShortName=Questgiver>"
+msgstr "<Alias.ShortName=Questgiver>에게 돌아가라"
+
+#: 9197
+#, fuzzy
+msgctxt "9197"
+msgid "Hired Muscle"
+msgstr "해결사 고용"
+
+#: 9201
+#, fuzzy
+msgctxt "9201"
+msgid "Return to <Alias.ShortName=Questgiver>"
+msgstr "<Alias.ShortName=Questgiver>에게 돌아가라"
+
+#: 9294
+#, fuzzy
+msgctxt "9294"
+msgid "Return to Falk Firebeard"
+msgstr "펄크(Falk Firebeard)에게 돌아가라"
+
+#: 9297
+#, fuzzy
+msgctxt "9297"
+msgid "Retrieve Potema's remains"
+msgstr "포테마의 유해를 회수하라"
+
+#: 9300
+#, fuzzy
+msgctxt "9300"
+msgid "Defeat Potema"
+msgstr "포테마를 패배시켜라"
+
+#: 9514
+msgctxt "9514"
+msgid ""
+"New Add-ons have been added.  You will need to restart to use this content.  "
+"All unsaved progress will be lost."
+msgstr ""
+
+#: 9518
+#, fuzzy
+msgctxt "9518"
+msgid "Geirmund's Hall"
+msgstr "지어문드의 회관(Geirmund's Hall)"
+
+#: 9740
+#, fuzzy
+msgctxt "9740"
+msgid "Search Morvunskar for Sam and the Staff"
+msgstr "샘과 지팡이를 위해 Morvunskar를 수색하시오"
+
+#: 9741
+#, fuzzy
+msgctxt "9741"
+msgid "Head to Morvunskar"
+msgstr "모르번스카(Morvunskar)로 향하시오"
+
+#: 9742
+#, fuzzy
+msgctxt "9742"
+msgid "Return the wedding ring to Ysolda in Whiterun"
+msgstr "화이트런의 이솔다에게 결혼반지를 되돌려주시오"
+
+#: 9751
+#, fuzzy
+msgctxt "9751"
+msgid "Talk to Ysolda in Whiterun about the staff"
+msgstr "지팡이에 대해서 화이트런의 이솔다와 대화하라"
+
+#: 9762
+#, fuzzy
+msgctxt "9762"
+msgid "Ask about Sam and the staff in Rorikstead"
+msgstr "로릭스테드(Rorikstead)에서 샘에게 지팡이에 대해 물으시오"
+
+#: 9764
+#, fuzzy
+msgctxt "9764"
+msgid "Apologize to the priestesses of Dibella"
+msgstr "디벨라의 여사제에게 사과하시오"
+
+#: 9765
+#, fuzzy
+msgctxt "9765"
+msgid "Help clean up the Temple of Dibella"
+msgstr "디벨라 사원을 청소하는 것을 도우시오"
+
+#: 9768
+#, fuzzy
+msgctxt "9768"
+msgid "Find Sam Guevenne"
+msgstr "샘 게베인(Sam Guevenne)을 찾으시오"
+
+#: 9798
+#, fuzzy
+msgctxt "9798"
+msgid "Inheritance"
+msgstr "계승"
+
+#: 9893
+msgctxt "9893"
+msgid "Dark Elf"
+msgstr ""
+
+#: 10035
+#, fuzzy
+msgctxt "10035"
+msgid "Find out how to defeat Alduin"
+msgstr "알두인을 물리칠 방법을 찾아라"
+
+#: 10159
+msgctxt "10159"
+msgid "Clear Skies"
+msgstr ""
+
+#: 10237
+#, fuzzy
+msgctxt "10237"
+msgid "\"Steal, Thugs hunt player\""
+msgstr "도둑질로 인해 청부업자가 플레이어를 추적한다"
+
+#: 10241
+#, fuzzy
+msgctxt "10241"
+msgid "Talk to Delphine"
+msgstr "델핀과 대화하라"
+
+#: 10242
+#, fuzzy
+msgctxt "10242"
+msgid "Search the torture chamber"
+msgstr "고문실을 수색하라"
+
+#: 10246
+#, fuzzy
+msgctxt "10246"
+msgid "Search for information about the dragons returning"
+msgstr "드래곤들의 귀환에 대한 정보를 찾아라"
+
+#: 10249
+#, fuzzy
+msgctxt "10249"
+msgid "(Optional) Retrieve your gear"
+msgstr "(선택) 장비들을 회수하라"
+
+#: 10250
+#, fuzzy
+msgctxt "10250"
+msgid "Create a distraction and get away from the party"
+msgstr "주위를 다른 곳으로 돌리고 연회장을 빠져나가라"
+
+#: 10256
+#, fuzzy
+msgctxt "10256"
+msgid "Give Malborn the equipment"
+msgstr "맬본에게 장비를 맡겨라"
+
+#: 10258
+#, fuzzy
+msgctxt "10258"
+msgid "Meet Malborn in Solitude"
+msgstr "솔리튜드에서 맬본(Malborn)을 만나라"
+
+#: 10260
+#, fuzzy
+msgctxt "10260"
+msgid "Meet Delphine in Riverwood"
+msgstr "리버우드에서 델핀을 만나라"
+
+#: 10270
+#, fuzzy
+msgctxt "10270"
+msgid "Diplomatic Immunity"
+msgstr "외교 특권"
+
+#: 10277
+#, fuzzy
+msgctxt "10277"
+msgid "Talk to Esbern"
+msgstr "에스번과 대화하라"
+
+#: 10280
+#, fuzzy
+msgctxt "10280"
+msgid "Find Esbern in the Ratway Warrens"
+msgstr "쥐소굴 빈민가에서 에스번을 찾아라"
+
+#: 10709
+#, fuzzy
+msgctxt "10709"
+msgid "Bash Disarm"
+msgstr "밀어치기 무장해제"
+
+#: 10958
+#, fuzzy
+msgctxt "10958"
+msgid "Fortify Smithing"
+msgstr "제련 향상"
+
+#: 11098
+#, fuzzy
+msgctxt "11098"
+msgid "Read Madanach's note"
+msgstr "마다나크의 노트를 읽으시오"
+
+#: 11099
+#, fuzzy
+msgctxt "11099"
+msgid "Search Madanach's body"
+msgstr "마다나크의 시체를 뒤지시오"
+
+#: 11100
+#, fuzzy
+msgctxt "11100"
+msgid "Kill Madanach"
+msgstr "마다나크를 죽이시오"
+
+#: 11106
+#, fuzzy
+msgctxt "11106"
+msgid "Kill Grisvar the Unlucky"
+msgstr "운이 없는 그리스버(Grisvar the Unlucky)를 죽이시오"
+
+#: 11111
+#, fuzzy
+msgctxt "11111"
+msgid "Return to Madanach"
+msgstr "마다나크에게 돌아가시오"
+
+#: 11113
+#, fuzzy
+msgctxt "11113"
+msgid "Talk to Madanach"
+msgstr "마다나크(Madanach)와 대화하라"
+
+#: 11123
+#, fuzzy
+msgctxt "11123"
+msgid "No One Escapes Cidhna Mine"
+msgstr "시드나(Cidhna) 광산에서는 아무도 탈출할 수 없다"
+
+#: 11293
+#, fuzzy
+msgctxt "11293"
+msgid "Bersi Honey-Hand"
+msgstr "다정한손 베르시(Bersi Honey-Hand)"
+
+#: 11305
+#, fuzzy
+msgctxt "11305"
+msgid "Interrogate Odahviing"
+msgstr "오다빙(Odahviing)을 심문하라"
+
+#: 11308
+#, fuzzy
+msgctxt "11308"
+msgid "Call Odahviing to Dragonsreach"
+msgstr "드래곤의 안식처로 오다빙을 불러라"
+
+#: 11316
+#, fuzzy
+msgctxt "11316"
+msgid "Prepare trap for Odahviing"
+msgstr "오다빙을 사로잡기 위한 함정을 준비하라"
+
+#: 11317
+#, fuzzy
+msgctxt "11317"
+msgid "Learn Shout to call Odahviing"
+msgstr "오다빙을 유인하기 위한 포효를 배워라"
+
+#: 11319
+#, fuzzy
+msgctxt "11319"
+msgid "Talk to Esbern"
+msgstr "(선택) 에스번(Esbern)과 대화하라"
+
+#: 11325
+#, fuzzy
+msgctxt "11325"
+msgid "Talk to Arngeir"
+msgstr "아르게일과 대화하라"
+
+#: 11328
+#, fuzzy
+msgctxt "11328"
+msgid "Talk to Paarthurnax"
+msgstr "파써넥스(Paarthurnax)와 대화하라"
+
+#: 11361
+#, fuzzy
+msgctxt "11361"
+msgid "Negotiate a truce"
+msgstr "휴전을 성사시켜라"
+
+#: 11375
+#, fuzzy
+msgctxt "11375"
+msgid "Talk to Ulfric Stormcloak"
+msgstr "울프릭 스톰클록과 대화하라"
+
+#: 11376
+#, fuzzy
+msgctxt "11376"
+msgid "Talk to General Tullius"
+msgstr "툴리우스 장군과 대화하라"
+
+#: 11379
+#, fuzzy
+msgctxt "11379"
+msgid "Talk to Arngeir"
+msgstr "아르게일과 대화하라"
+
+#: 11384
+#, fuzzy
+msgctxt "11384"
+msgid "Season Unending"
+msgstr "영원한 계절"
+
+#: 11549
+#, fuzzy
+msgctxt "11549"
+msgid "Talk to the heroes of Sovngarde"
+msgstr "소븐가드의 영웅들과 대화하라"
+
+#: 11551
+#, fuzzy
+msgctxt "11551"
+msgid "Gain admittance to the Hall of Valor"
+msgstr "용기의 전당으로 들어가기 위한 허락을 얻어라"
+
+#: 11552
+#, fuzzy
+msgctxt "11552"
+msgid "Sovngarde"
+msgstr "소븐가드(Sovngarde)"
+
+#: 11690
+msgctxt "11690"
+msgid "Bring Aela her shield"
+msgstr ""
+
+#: 11692
+msgctxt "11692"
+msgid "Train with Vilkas"
+msgstr ""
+
+#: 11696
+msgctxt "11696"
+msgid "Speak to Kodlak Whitemane"
+msgstr ""
+
+#: 11740
+#, fuzzy
+msgctxt "11740"
+msgid "Speak to Boethiah's Conduit"
+msgstr "보에시아의 대리인과 대화하라"
+
+#: 11748
+#, fuzzy
+msgctxt "11748"
+msgid "Slay the Jarl of Solitude"
+msgstr "솔리튜드의 영주를 죽여라"
+
+#: 11752
+#, fuzzy
+msgctxt "11752"
+msgid "Slay the other cultists"
+msgstr "다른 신도들을 죽여라"
+
+#: 11756
+#, fuzzy
+msgctxt "11756"
+msgid "Find the cult of Boethiah"
+msgstr "보에시아의 숭배자를 찾아 대화하라"
+
+#: 11758
+#, fuzzy
+msgctxt "11758"
+msgid "Find the shrine of Boethiah"
+msgstr "보에시아의 성소를 찾아라"
+
+#: 11771
+#, fuzzy
+msgctxt "11771"
+msgid "Boethiah's Calling"
+msgstr "보에시아의 부름"
+
+#: 11772
+#, fuzzy
+msgctxt "11772"
+msgid "Retrieve Dawnbreaker"
+msgstr "여명의 파괴자(Dawnbreaker)를 되찾아라"
+
+#: 11773
+#, fuzzy
+msgctxt "11773"
+msgid "Destroy Malkoran"
+msgstr "멀코렌(Malkoran)을 없애버리시오"
+
+#: 11791
+#, fuzzy
+msgctxt "11791"
+msgid "The Break of Dawn"
+msgstr "부서진 새벽"
+
+#: 11882
+#, fuzzy
+msgctxt "11882"
+msgid "Return to Quintus Navale"
+msgstr "퀸투스 나발에게 돌아가라"
+
+#: 11886
+#, fuzzy
+msgctxt "11886"
+msgid "Find some Mammoth Tusk Powder"
+msgstr "매머드 상아 분말을 구하시오"
+
+#: 11889
+#, fuzzy
+msgctxt "11889"
+msgid "Retrieve the Unmelting Snow"
+msgstr "녹지않는 눈 회수"
+
+#: 12485
+#, fuzzy
+msgctxt "12485"
+msgid "Follow <Alias=Questgiver>"
+msgstr "<Alias=Questgiver>를 따라가라"
+
+#: 12488
+#, fuzzy
+msgctxt "12488"
+msgid "Brotherhood"
+msgstr "어둠의 단원"
+
+#: 12490
+#, fuzzy
+msgctxt "12490"
+msgid "Return to Jorrvaskr"
+msgstr "요르바스크로 돌아가라"
+
+#: 12492
+#, fuzzy
+msgctxt "12492"
+msgid "(Optional) Wipe out the Silver Hand"
+msgstr "(선택) 실버 핸드를 남김없이 처치하라"
+
+#: 12494
+#, fuzzy
+msgctxt "12494"
+msgid "Retrieve the fragments of Wuuthrad"
+msgstr "우쓰라드 조각들을 회수하시오"
+
+#: 12499
+#, fuzzy
+msgctxt "12499"
+msgid "Purity of Revenge"
+msgstr "정당한 복수"
+
+#: 12640
+#, fuzzy
+msgctxt "12640"
+msgid "Deliver Moon Sugar to Ri'saad"
+msgstr "리싸드에게 달빛 설탕을 전달하라"
+
+#: 12851
+#, fuzzy
+msgctxt "12851"
+msgid "Escaped Criminal"
+msgstr "탈출한 범죄자를 처치하라"
+
+#: 12982
+#, fuzzy
+msgctxt "12982"
+msgid "Deliver the soul gem to Arniel"
+msgstr "영혼석을 아니엘에게 전달하라"
+
+#: 12986
+#, fuzzy
+msgctxt "12986"
+msgid "Heat the Convector"
+msgstr "난방기를 데워라"
+
+#: 12991
+#, fuzzy
+msgctxt "12991"
+msgid "Arniel's Endeavor"
+msgstr "아니엘(Arniel)의 노력"
+
+#: 13108
+#, fuzzy
+msgctxt "13108"
+msgid "Clear Out Wolfskull Cave"
+msgstr "늑대해골 동굴(Wolfskull Cave)의 적을 소탕하라"
+
+#: 13109
+#, fuzzy
+msgctxt "13109"
+msgid "Ask Falk Firebeard about Wolfskull Cave"
+msgstr ""
+"펄크 파이어버드(Falk Firebeard)에게 늑대해골 동굴(Wolfskull Cave)에 대해 물어"
+"보아라"
+
+#: 13790
+#, fuzzy
+msgctxt "13790"
+msgid "\"Yes, Cicero is dead.\""
+msgstr "\"그래, 시세로는 죽었어.\""
+
+#: 13884
+#, fuzzy
+msgctxt "13884"
+msgid "My reasons are my own."
+msgstr "사적인 일이오."
+
+#: 14271
+#, fuzzy
+msgctxt "14271"
+msgid "Scroll of Frost Thrall"
+msgstr "냉기속박 두루마리"
+
+#: 14654
+#, fuzzy
+msgctxt "14654"
+msgid "Speak with Enthir"
+msgstr "엔서(Enthir)와 대화하라"
+
+#: 14660
+#, fuzzy
+msgctxt "14660"
+msgid "Onmund's Request"
+msgstr "온문드(Onmund)의 요청"
+
+#: 14994
+#, fuzzy
+msgctxt "14994"
+msgid "Thalmor vs Player"
+msgstr "탈모어 vs 플레이어"
+
+#: 15010
+#, fuzzy
+msgctxt "15010"
+msgid "Bounty hunters vs Player"
+msgstr "현상금 사냥꾼 vs 플레이어"
+
+#: 15250
+msgctxt "15250"
+msgid "Thieves Guild Fence Handler"
+msgstr ""
+
+#: 15252
+#, fuzzy
+msgctxt "15252"
+msgid "Return to Tonilia"
+msgstr "토닐리아에게 돌아가라"
+
+#: 15259
+msgctxt "15259"
+msgid "Thieves Guild Caravan Fence Quest"
+msgstr ""
+
+#: 15279
+#, fuzzy
+msgctxt "15279"
+msgid "Find Finn's Lute"
+msgstr "핀의 류트를 찾아라"
+
+#: 15286
+#, fuzzy
+msgctxt "15286"
+msgid "Return Pantea's Flute"
+msgstr "판테아에게 플루트을 돌려주어라"
+
+#: 15288
+#, fuzzy
+msgctxt "15288"
+msgid "Pantea's Flute"
+msgstr "판테아의 플루트"
+
+#: 15291
+#, fuzzy
+msgctxt "15291"
+msgid "Find Rjorn's Drum"
+msgstr "욘의 드럼을 찾아라"
+
+#: 15911
+#, fuzzy
+msgctxt "15911"
+msgid "Speak to Boethiah's Conduit"
+msgstr "보에시아의 대리인과 대화하라"
+
+#: 16068
+#, fuzzy
+msgctxt "16068"
+msgid "About that message from the General..."
+msgstr "장군으로 부터 온 편지는..."
+
+#: 16093
+#, fuzzy
+msgctxt "16093"
+msgid "Repairing the Phial"
+msgstr "약병의 복구"
+
+#: 16359
+#, fuzzy
+msgctxt "16359"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 16810
+msgctxt "16810"
+msgid "Clear Skies"
+msgstr ""
+
+#: 16853
+#, fuzzy
+msgctxt "16853"
+msgid "Give Potema's remains to Styrr"
+msgstr "포테마의 유해를 스티르에게 전달하라"
+
+#: 17337
+#, fuzzy
+msgctxt "17337"
+msgid "Take your seat"
+msgstr "자리에 앉으시오"
+
+#: 17476
+#, fuzzy
+msgctxt "17476"
+msgid "Reeking Cave"
+msgstr "독한 악취 동굴(Reeking Cave)"
+
+#: 17943
+#, fuzzy
+msgctxt "17943"
+msgid "Receive a reading from Olava the Feeble"
+msgstr "겁쟁이 올라바(Olava the Feeble)에게 예언을 들으시오"
+
+#: 18091
+#, fuzzy
+msgctxt "18091"
+msgid "Talk to Brynjolf"
+msgstr "브린욜프(Brynjolf)와 대화하라"
+
+#: 18221
+msgctxt "18221"
+msgid "Give Vilkas's sword to Eorlund"
+msgstr ""
+
+#: 18668
+msgctxt "18668"
+msgid "Yes?"
+msgstr ""
+
+#: 18815
+msgctxt "18815"
+msgid "Left Weapon Rack"
+msgstr ""
+
+#: 19101
+#, fuzzy
+msgctxt "19101"
+msgid "I submit. Take me to jail."
+msgstr "항복하지. 날 감옥에 데려가."
+
+#: 19488
+#, fuzzy
+msgctxt "19488"
+msgid "Whiterun"
+msgstr "화이트런(Whiterun)"
+
+#: 19870
+#, fuzzy
+msgctxt "19870"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 20164
+#, fuzzy
+msgctxt "20164"
+msgid "Finn's Lute"
+msgstr "핀의 류트"
+
+#: 20387
+msgctxt "20387"
+msgid "Imperial"
+msgstr ""
+
+#: 20751
+#, fuzzy
+msgctxt "20751"
+msgid "Get past Borkul the Beast"
+msgstr "야수 보르쿨(Borkul the Beast) 옆을 지나가시오"
+
+#: 21106
+#, fuzzy
+msgctxt "21106"
+msgid "The Mind Of A Madman"
+msgstr "미친자의 마음"
+
+#: 21492
+#, fuzzy
+msgctxt "21492"
+msgid "Who is Aventus?"
+msgstr "아벤투스가 누구지?"
+
+#: 21582
+#, fuzzy
+msgctxt "21582"
+msgid "Return to Madanach"
+msgstr "마다나크에게 돌아가라"
+
+#: 22342
+msgctxt "22342"
+msgid "Giant Stomp"
+msgstr ""
+
+#: 22761
+#, fuzzy
+msgctxt "22761"
+msgid "Follow Madanach"
+msgstr "마다나크를 따라가라"
+
+#: 22762
+#, fuzzy
+msgctxt "22762"
+msgid "About that message from the Jarl..."
+msgstr "영주가 전하고자 하는 바는..."
+
+#: 22776
+#, fuzzy
+msgctxt "22776"
+msgid "About that message from the General..."
+msgstr "장군으로 부터 온 편지는..."
+
+#: 22777
+#, fuzzy
+msgctxt "22777"
+msgid "I have an important message from General Tullius."
+msgstr "툴리우스 장군이 전하는 중요한 편지가 있어요."
+
+#: 23212
+#, fuzzy
+msgctxt "23212"
+msgid "Take your leave of <Alias=Victim>"
+msgstr "<Alias=Victim>와 작별하라"
+
+#: 23228
+#, fuzzy
+msgctxt "23228"
+msgid "I recovered your flute."
+msgstr "당신의 플루트를 찾았습니다."
+
+#: 23721
+#, fuzzy
+msgctxt "23721"
+msgid "Ask a prisoner about Madanach"
+msgstr "죄수에 관해 마다나크에게 물으시오"
+
+#: 23786
+#, fuzzy
+msgctxt "23786"
+msgid "I have an important message for you."
+msgstr "당신에게 전할 중요한 편지가 있어요."
+
+#: 23818
+#, fuzzy
+msgctxt "23818"
+msgid "Regenerate Health"
+msgstr "체력 재생"
+
+#: 24117
+#, fuzzy
+msgctxt "24117"
+msgid "Conjure Flame Atronach"
+msgstr "화염 에트로낙 소환"
+
+#: 24336
+#, fuzzy
+msgctxt "24336"
+msgid "A Cornered Rat"
+msgstr "궁쥐에 몰린 쥐"
+
+#: 24491
+#, fuzzy
+msgctxt "24491"
+msgid "Deliver the staff to Enthir"
+msgstr "엔시르에게 지팡이를 전달하라"
+
+#: 24553
+#, fuzzy
+msgctxt "24553"
+msgid "Proudspire Manor"
+msgstr "오만의 첨탑 저택(Proudspire Manor)"
+
+#: 24781
+#, fuzzy
+msgctxt "24781"
+msgid "Jorrvaskr"
+msgstr "요르바스크(Jorrvaskr)"
+
+#: 25260
+#, fuzzy
+msgctxt "25260"
+msgid "Hello."
+msgstr "안녕하세요."
+
+#: 25474
+#, fuzzy
+msgctxt "25474"
+msgid "\"Thalmor Embassy, Barracks\""
+msgstr "탈모어 대사관 병영"
+
+#: 25774
+#, fuzzy
+msgctxt "25774"
+msgid "Retrieve the hilt of Mehrunes' Razor"
+msgstr "메이룬스의 칼날 손잡이 회수"
+
+#: 26138
+#, fuzzy
+msgctxt "26138"
+msgid "Breezehome"
+msgstr "산들바람 집(Breezehome)"
+
+#: 26722
+msgctxt "26722"
+msgid "Call Storm"
+msgstr ""
+
+#: 26746
+#, fuzzy
+msgctxt "26746"
+msgid "Find Gleda the Goat"
+msgstr "염소 글레다를 찾으시오"
+
+#: 26797
+#, fuzzy
+msgctxt "26797"
+msgid "Rescue <Alias=Victim> from <Alias=Lair>"
+msgstr "<Alias=Lair>에서 <Alias=Victim>를 구출하라"
+
+#: 26895
+#, fuzzy
+msgctxt "26895"
+msgid "Bring the pommel stone to Silus"
+msgstr "사일러스에게 칼날자루를 가져가시오."
+
+#: 27102
+#, fuzzy
+msgctxt "27102"
+msgid "Dead Treasure Hunter with instructions"
+msgstr "단서를 소지한 보물사냥꾼의 시체"
+
+#: 27564
+msgctxt "27564"
+msgid "Yes?"
+msgstr ""
+
+#: 27833
+#, fuzzy
+msgctxt "27833"
+msgid "Bring Gleda the Goat back to Ennis in Rorikstead"
+msgstr "염소 글레다를 로릭스테드의 에니스에게 되돌려주시오"
+
+#: 28304
+msgctxt "28304"
+msgid "Effects\\FXEmptyObject.nif"
+msgstr ""
+
+#: 28344
+#, fuzzy
+msgctxt "28344"
+msgid "Thieves Guild Radiant Shell"
+msgstr "도둑길드의 빛나는 껍질"
+
+#: 28630
+#, fuzzy
+msgctxt "28630"
+msgid "Senna"
+msgstr "세나(Senna)"
+
+#: 29371
+msgctxt "29371"
+msgid "Imperial"
+msgstr ""
+
+#: 29557
+#, fuzzy
+msgctxt "29557"
+msgid "\"Regarding what, my lady?\""
+msgstr "\"무슨 일이죠, 아가씨?\""
+
+#: 30131
+#, fuzzy
+msgctxt "30131"
+msgid "Find the wedding ring in Witchmist Grove"
+msgstr "마녀안개 숲(Witchmist Grove)에서 결혼반지를 찾으시오"
+
+#: 30324
+msgctxt "30324"
+msgid "View Available Add-Ons"
+msgstr ""
+
+#: 30685
+msgctxt "30685"
+msgid "Argonian"
+msgstr ""
+
+#: 30920
+#, fuzzy
+msgctxt "30920"
+msgid "Blood on the Ice"
+msgstr "얼음 위의 피"
+
+#: 31160
+msgctxt "31160"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 31277
+#, fuzzy
+msgctxt "31277"
+msgid "(Optional) Steal Haelga's Statue of Dibella"
+msgstr "(선택) 헬가의 가게안에 있는 디벨라의 석상을 훔쳐라"
+
+#: 31348
+#, fuzzy
+msgctxt "31348"
+msgid "Speak to Mallus Maccius"
+msgstr "말루스 마키우스와 대화하라"
+
+#: 31607
+msgctxt "31607"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 31807
+#, fuzzy
+msgctxt "31807"
+msgid "Replace the beacon"
+msgstr "성화를 교체하시오"
+
+#: 31816
+msgctxt "31816"
+msgid "Yes?"
+msgstr ""
+
+#: 32609
+#, fuzzy
+msgctxt "32609"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 32762
+#, fuzzy
+msgctxt "32762"
+msgid "Conjure Storm Atronach"
+msgstr "전격 에트로낙 소환"
+
+#: 32836
+msgctxt "32836"
+msgid "Wood Elf"
+msgstr ""
+
+#: 33409
+#, fuzzy
+msgctxt "33409"
+msgid "Collect Haelga's debt"
+msgstr "헬가에게 빚을 받아내라"
+
+#: 33751
+#, fuzzy
+msgctxt "33751"
+msgid "Bring Meridia's beacon to Mount Kilkreath"
+msgstr "메리디아의 성화를 킬크리스산에 가져가라"
+
+#: 33952
+msgctxt "33952"
+msgid "Take Up Arms"
+msgstr ""
+
+#: 33955
+#, fuzzy
+msgctxt "33955"
+msgid "Speak to Styrr"
+msgstr "스티르(Styrr)와 대화하라"
+
+#: 34395
+#, fuzzy
+msgctxt "34395"
+msgid "Ysolda"
+msgstr "이솔다(Ysolda)"
+
+#: 34402
+#, fuzzy
+msgctxt "34402"
+msgid "Find the Staff"
+msgstr "지팡이를 찾아라"
+
+#: 34531
+#, fuzzy
+msgctxt "34531"
+msgid "I would be honored to accept."
+msgstr "흔쾌히 맡겠네."
+
+#: 34886
+#, fuzzy
+msgctxt "34886"
+msgid "Fortify Magicka"
+msgstr "매지카 증가"
+
+#: 34966
+#, fuzzy
+msgctxt "34966"
+msgid "Karliah"
+msgstr "칼라이야(Karliah)"
+
+#: 35235
+#, fuzzy
+msgctxt "35235"
+msgid "Speak to Mallus Maccius"
+msgstr "말루스 마키우스와 대화하라"
+
+#: 35328
+msgctxt "35328"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 35485
+#, fuzzy
+msgctxt "35485"
+msgid "Bring the hilt to Silus"
+msgstr "사일러스에게 칼날 손잡이를 가져가시오"
+
+#: 35681
+#, fuzzy
+msgctxt "35681"
+msgid "Attend the tasting ceremony"
+msgstr "시음식에 참여하라"
+
+#: 35753
+msgctxt "35753"
+msgid "Redguard"
+msgstr ""
+
+#: 36411
+#, fuzzy
+msgctxt "36411"
+msgid "Take the wedding ring"
+msgstr "결혼반지를 집으시오"
+
+#: 37042
+#, fuzzy
+msgctxt "37042"
+msgid "Forsaken Crypt"
+msgstr "포세이큰 지하"
+
+#: 37056
+#, fuzzy
+msgctxt "37056"
+msgid "I'll take it."
+msgstr "이걸로 할게요."
+
+#: 37065
+#, fuzzy
+msgctxt "37065"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 37449
+#, fuzzy
+msgctxt "37449"
+msgid "A Night To Remember"
+msgstr "추억의 밤"
+
+#: 37481
+msgctxt "37481"
+msgid "DialogueRiftenGoodbyes"
+msgstr ""
+
+#: 37903
+#, fuzzy
+msgctxt "37903"
+msgid "(Optional) Use Talen-Jei to get to Keerava"
+msgstr "(선택) 탈렌-제이로부터 키라바에 대한 정보를 얻어라"
+
+#: 38050
+#, fuzzy
+msgctxt "38050"
+msgid "\"Wait, you want me to go do this alone?\""
+msgstr "\"잠깐, 이걸 나 혼자 하라는 겁니까? \""
+
+#: 38458
+msgctxt "38458"
+msgid "High Elf"
+msgstr ""
+
+#: 38539
+#, fuzzy
+msgctxt "38539"
+msgid "Find the staff for Enthir"
+msgstr "엔시르의 지팡이를 찾으시오"
+
+#: 38595
+#, fuzzy
+msgctxt "38595"
+msgid "And now that Potema has returned?"
+msgstr "그럼 포테마는 부활한건가?"
+
+#: 38602
+#, fuzzy
+msgctxt "38602"
+msgid "Falk sent me to talk to you about Potema."
+msgstr "펄크가 당신과 포테마에 관해 이야기해보라고 했소."
+
+#: 38897
+#, fuzzy
+msgctxt "38897"
+msgid "I have this token for you."
+msgstr "당신에게 이 징표를 주겠어요."
+
+#: 38900
+#, fuzzy
+msgctxt "38900"
+msgid "I was told you could see my future."
+msgstr "당신이 내 미래를 볼 수 있다고 들었어."
+
+#: 38915
+#, fuzzy
+msgctxt "38915"
+msgid "Is there anything else?"
+msgstr "더 필요한 건 없나?"
+
+#: 38927
+msgctxt "38927"
+msgid "Redguard"
+msgstr ""
+
+#: 39619
+#, fuzzy
+msgctxt "39619"
+msgid "Find Meridia's beacon"
+msgstr "메리디아의 성화를 찾아라"
+
+#: 40394
+#, fuzzy
+msgctxt "40394"
+msgid "Escape Cidhna Mine"
+msgstr "시드나 광산을 탈출하라"
+
+#: 40503
+#, fuzzy
+msgctxt "40503"
+msgid "Folgunthur Crypt"
+msgstr "폴군더 지하"
+
+#: 41021
+#, fuzzy
+msgctxt "41021"
+msgid "Limbsplitter"
+msgstr "참격"
+
+#: 41061
+#, fuzzy
+msgctxt "41061"
+msgid "The Man Who Cried Wolf"
+msgstr "늑대를 부르는 사람"
+
+#: 41185
+#, fuzzy
+msgctxt "41185"
+msgid "Place the warped soul gem into a Convector"
+msgstr "난방기에 뒤틀린 영혼석을 넣어라."
+
+#: 41208
+#, fuzzy
+msgctxt "41208"
+msgid "Slay everyone at <Alias=Dungeon> stealthily"
+msgstr "<Alias=Dungeon>에 있는 모든 사람들을 은밀하게 처치하라"
+
+#: 41292
+#, fuzzy
+msgctxt "41292"
+msgid "About that message from Ulfric..."
+msgstr "울프릭이 전하려는 편지는..."
+
+#: 41436
+#, fuzzy
+msgctxt "41436"
+msgid "Escort <Alias=Victim> back to <Alias=VictimHome>"
+msgstr "<Alias=VictimHome>까지 <Alias=Victim>를 호위하라"
+
+#: 41778
+#, fuzzy
+msgctxt "41778"
+msgid "Who is Aventus?"
+msgstr "아벤투스(Aventus)가 누구지?"
+
+#: 41783
+#, fuzzy
+msgctxt "41783"
+msgid "Fortify Health"
+msgstr "체력 증가"
+
+#: 41795
+#, fuzzy
+msgctxt "41795"
+msgid "Who is Aventus?"
+msgstr "아벤투스(Aventus)가 누구지?"
+
+#: 41951
+#, fuzzy
+msgctxt "41951"
+msgid "Kill the escaped criminal"
+msgstr "탈출한 범죄자를 처치하라"
+
+#: 42691
+msgctxt "42691"
+msgid "WhiterunOlavaReadingTopic1"
+msgstr ""
+
+#: 42733
+#, fuzzy
+msgctxt "42733"
+msgid "Identify Sabjorn's silent partner"
+msgstr "사브욘의 과묵한 파트너를 확인하라"
+
+#: 44114
+#, fuzzy
+msgctxt "44114"
+msgid "Retrieve and equip the Ebony Mail"
+msgstr "암흑의 미늘갑옷을 회수하고 입으시오"
+
+#: 44852
+msgctxt "44852"
+msgid "Nord"
+msgstr ""
+
+#: 44932
+#, fuzzy
+msgctxt "44932"
+msgid "The Wolf Queen Awakened"
+msgstr "늑대의 여왕이 깨어나다"
+
+#: 45037
+#, fuzzy
+msgctxt "45037"
+msgid "Conjure Frost Atronach"
+msgstr "냉기 에트로낙 소환"
+
+#: 45671
+#, fuzzy
+msgctxt "45671"
+msgid "Hear Braig's story"
+msgstr "브레이그(Braig)의 이야기를 들으시오"
+
+#: 45865
+#, fuzzy
+msgctxt "45865"
+msgid "Scroll of Storm Thrall"
+msgstr "전격속박 두루마리"
+
+#: 46457
+#, fuzzy
+msgctxt "46457"
+msgid "Limbsplitter"
+msgstr "참격"
+
+#: 46662
+msgctxt "46662"
+msgid "Clear Skies"
+msgstr ""
+
+#: 46980
+msgctxt "46980"
+msgid "Orc"
+msgstr ""
+
+#: 47147
+#, fuzzy
+msgctxt "47147"
+msgid "Take a Forsworn Heart"
+msgstr "포스원의 심장을 구하시오"
+
+#: 47497
+#, fuzzy
+msgctxt "47497"
+msgid "Blade of Sacrifice"
+msgstr "희생의 칼"
+
+#: 47720
+#, fuzzy
+msgctxt "47720"
+msgid "Thank you."
+msgstr "고맙네."
+
+#: 48119
+#, fuzzy
+msgctxt "48119"
+msgid "Is there anything I can help Riften with?"
+msgstr "리프튼을 돕기위해 제가 할 일이 있나요?"
+
+#: 48120
+#, fuzzy
+msgctxt "48120"
+msgid "Get Greybeards' help in negotiating a truce"
+msgstr "휴전을 협상을 위해 그레이비어드에게 도움을 요청하라"
+
+#: 48203
+#, fuzzy
+msgctxt "48203"
+msgid "Windhelm"
+msgstr "윈드헬름(Windhelm)"
+
+#: 48846
+#, fuzzy
+msgctxt "48846"
+msgid "Taking Care of Business"
+msgstr "사업 관리"
+
+#: 48912
+#, fuzzy
+msgctxt "48912"
+msgid "Summon Ghost"
+msgstr "유령 소환"
+
+#: 49030
+#, fuzzy
+msgctxt "49030"
+msgid "Defeat and trap Odahviing"
+msgstr "오다빙을 함정에 빠뜨리고 쓰러뜨려라"
+
+#: 49545
+#, fuzzy
+msgctxt "49545"
+msgid "Paralyze"
+msgstr "마비"
+
+#: 49758
+msgctxt "49758"
+msgid "Follow Farkas to your quarters"
+msgstr ""
+
+#: 50340
+#, fuzzy
+msgctxt "50340"
+msgid "Talen-Jei"
+msgstr "탈렌-제이(Talen-Jei)"
+
+#: 50349
+msgctxt "50349"
+msgid "Breton"
+msgstr ""
+
+#: 50859
+msgctxt "50859"
+msgid ""
+"\"In order to use the Add-Ons associated with this profile, you will need to "
+"restart.\""
+msgstr ""
+
+#: 51203
+msgctxt "51203"
+msgid "Argonian"
+msgstr ""
+
+#: 51912
+msgctxt "51912"
+msgid "Yes?"
+msgstr ""
+
+#: 52072
+#, fuzzy
+msgctxt "52072"
+msgid "I have slain <Alias=DeadFriend> to gain your favor."
+msgstr "당신의 총애를 얻고자 <Alias=DeadFriend>을(를) 죽였습니다."
+
+#: 52625
+msgctxt "52625"
+msgid "Yes?"
+msgstr ""
+
+#: 52709
+msgctxt "52709"
+msgid "The game must restart now because Add-On content has been removed."
+msgstr ""
+
+#: 52927
+#, fuzzy
+msgctxt "52927"
+msgid "Talk to <Alias=Victim>"
+msgstr "<Alias=Victim>에게 대화"
+
+#: 52966
+#, fuzzy
+msgctxt "52966"
+msgid "Talk to Malborn"
+msgstr "맬본과 대화하라"
+
+#: 53186
+#, fuzzy
+msgctxt "53186"
+msgid "Retrieve the soul gem"
+msgstr "영혼석을 회수하라"
+
+#: 53820
+#, fuzzy
+msgctxt "53820"
+msgid "Speak to Mehrunes Dagon"
+msgstr "메이룬스 데이건과 대화하라"
+
+#: 54087
+#, fuzzy
+msgctxt "54087"
+msgid "Fortify Alchemy"
+msgstr "연금 강화"
+
+#: 54413
+#, fuzzy
+msgctxt "54413"
+msgid "\"Revenge, Hired Thugs\""
+msgstr "\"복수, 고용된 악당\""
+
+#: 54463
+#, fuzzy
+msgctxt "54463"
+msgid "Speak to <Alias=Questgiver>"
+msgstr "<Alias=Questgiver>와 대화하라"
+
+#: 54489
+#, fuzzy
+msgctxt "54489"
+msgid "Dead Men's Respite"
+msgstr "망자의 휴식처(Dead Men's Respite)"
+
+#: 55012
+msgctxt "55012"
+msgid "Wood Elf"
+msgstr ""
+
+#: 55108
+msgctxt "55108"
+msgid "Call Storm"
+msgstr ""
+
+#: 55234
+#, fuzzy
+msgctxt "55234"
+msgid "Who is Aventus?"
+msgstr "아벤투스(Aventus)가 누구지?"
+
+#: 55410
+#, fuzzy
+msgctxt "55410"
+msgid "Give Finn's Lute to Inge"
+msgstr "핀의 류트를 잉게에게 주시오"
+
+#: 55690
+msgctxt "55690"
+msgid "Nord"
+msgstr ""
+
+#: 55730
+#, fuzzy
+msgctxt "55730"
+msgid "Deliver the amulet to Onmund"
+msgstr "온문드에게 목장식을 건네시오"
+
+#: 55821
+#, fuzzy
+msgctxt "55821"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 56487
+#, fuzzy
+msgctxt "56487"
+msgid "Jarl Ulfric Stormcloak asked me to deliver this axe to you."
+msgstr "영주 울프릭 스톰클록께서 이 도끼를 전해주라고 하셨습니다."
+
+#: 56698
+#, fuzzy
+msgctxt "56698"
+msgid "Meet Delphine at the stables"
+msgstr "마구간에서 델핀과 만나라"
+
+#: 57087
+msgctxt "57087"
+msgid "Yes?"
+msgstr ""
+
+#: 57373
+#, fuzzy
+msgctxt "57373"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 57395
+msgctxt "57395"
+msgid "Right Weapon Rack"
+msgstr ""
+
+#: 57406
+#, fuzzy
+msgctxt "57406"
+msgid "Reforge Mehrunes' Razor"
+msgstr "메이룬스의 칼날을 복원하라"
+
+#: 57509
+#, fuzzy
+msgctxt "57509"
+msgid "Ennis"
+msgstr "에니스(Ennis)"
+
+#: 58024
+#, fuzzy
+msgctxt "58024"
+msgid "Speak to Falk Firebeard"
+msgstr "펄크 파이어버드와 대화하라"
+
+#: 58453
+#, fuzzy
+msgctxt "58453"
+msgid "Headsman's Axe"
+msgstr "사형집행자의 도끼"
+
+#: 58867
+#, fuzzy
+msgctxt "58867"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 59030
+#, fuzzy
+msgctxt "59030"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 59076
+#, fuzzy
+msgctxt "59076"
+msgid "\"Thalmor Embassy, Elenwen's Solar\""
+msgstr "탈모어 대사관 - 엘렌웬의 태양빛"
+
+#: 59958
+#, fuzzy
+msgctxt "59958"
+msgid "Hall of Attainment"
+msgstr "성취의 전당(Hall of Attainment)"
+
+#: 60090
+#, fuzzy
+msgctxt "60090"
+msgid "Twilight Sepulcher"
+msgstr "황혼의 고분(Twilight Sepulcher)"
+
+#: 60113
+#, fuzzy
+msgctxt "60113"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 60383
+#, fuzzy
+msgctxt "60383"
+msgid "The Fallen"
+msgstr "추락"
+
+#: 60506
+#, fuzzy
+msgctxt "60506"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 60539
+#, fuzzy
+msgctxt "60539"
+msgid "Regenerate Stamina"
+msgstr "지구력 재생"
+
+#: 60664
+#, fuzzy
+msgctxt "60664"
+msgid "Scroll of Flame Thrall"
+msgstr "화염속박 두루마리"
+
+#: 60734
+#, fuzzy
+msgctxt "60734"
+msgid "The Ragged Flagon"
+msgstr "오래된 술병(The Ragged Flagon)"
+
+#: 60790
+#, fuzzy
+msgctxt "60790"
+msgid "Fortify Stamina"
+msgstr "지구력 증가"
+
+#: 61204
+#, fuzzy
+msgctxt "61204"
+msgid "Give Rjorn's Drum to Giraud"
+msgstr "지라우드에게 욘의 북을 건네시오"
+
+#: 61361
+msgctxt "61361"
+msgid "Khajiit"
+msgstr ""
+
+#: 61605
+#, fuzzy
+msgctxt "61605"
+msgid "You look young for a blacksmith."
+msgstr "대장장이 일을 하기엔 젊어보이는군."
+
+#: 61627
+#, fuzzy
+msgctxt "61627"
+msgid "Quick Reflexes"
+msgstr "빠른 복구"
+
+#: 62181
+msgctxt "62181"
+msgid "Orc"
+msgstr ""
+
+#: 62943
+#, fuzzy
+msgctxt "62943"
+msgid "Skill Boosts"
+msgstr "기술 가속"
+
+#: 63087
+#, fuzzy
+msgctxt "63087"
+msgid "Speak to Maven Black-Briar"
+msgstr "메이븐 블랙브라이어와 대화하라"
+
+#: 63193
+#, fuzzy
+msgctxt "63193"
+msgid "Speak to Quintus Navale"
+msgstr "퀸투스 나발과 대화하라"
+
+#: 63210
+#, fuzzy
+msgctxt "63210"
+msgid "I've purchased Honeyside."
+msgstr "허니사이드를 구입했다."
+
+#: 63349
+msgctxt "63349"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 63400
+#, fuzzy
+msgctxt "63400"
+msgid "Find Pantea's Flute"
+msgstr "판테아의 플루트를 찾아라"
+
+#: 64235
+msgctxt "64235"
+msgid "Yes?"
+msgstr ""
+
+#: 64374
+#, fuzzy
+msgctxt "64374"
+msgid "Bleeding Damage"
+msgstr "출혈 피해"
+
+#: 64420
+#, fuzzy
+msgctxt "64420"
+msgid "Talk to Arngeir"
+msgstr "아르게일과 대화하라"
+
+#: 64448
+#, fuzzy
+msgctxt "64448"
+msgid "Lead someone to become trapped by the shrine and slay them"
+msgstr "누군가를 '희생자의 기둥'으로 유인해 함정에 빠트린다. "
+
+#: 64513
+#, fuzzy
+msgctxt "64513"
+msgid "Rescue Mission"
+msgstr "구출작전"
+
+#: 64682
+#, fuzzy
+msgctxt "64682"
+msgid "Search the Ratway for Esbern's hideout"
+msgstr "쥐소굴 빈민가에서 에스번의 은신처를 찾아라"
+
+#: 66818
+msgctxt "66818"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 67212
+msgctxt "67212"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 67630
+msgctxt "67630"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 69128
+#, fuzzy
+msgctxt "69128"
+msgid "Clean up that murderer's mess. (<Global=HDWindhelmKiller> gold)"
+msgstr "살인 현장을 청소해주세요. (<Global=HDWindhelmKiller> 골드)"
+
+#: 70463
+msgctxt "70463"
+msgid "Falkreath Jail"
+msgstr ""
+
+#: 70959
+#, fuzzy
+msgctxt "70959"
+msgid "Dark Brotherhood Assassin Sent to Kill the Player"
+msgstr "플레이어를 죽이기위해 보내진 다크 브라더후드 암살자"
+
+#: 70974
+msgctxt "70974"
+msgid "Giant Stomp"
+msgstr ""
+
+#: 71222
+#, fuzzy
+msgctxt "71222"
+msgid "Warmaster Knockdown"
+msgstr "전쟁의 달인 발동"
+
+#: 71301
+#, fuzzy
+msgctxt "71301"
+msgid "Courier Delivering an Important Message"
+msgstr "중요한 편지를 전달하는 전령"
+
+#: 71716
+#, fuzzy
+msgctxt "71716"
+msgid "Place the warpred soul gem into a final Convector"
+msgstr "마지막 난방기에 뒤틀린 소울젬을 넣으시오"
+
+#: 71717
+#, fuzzy
+msgctxt "71717"
+msgid "Place the warped soul gem into another Convector"
+msgstr "다른 난방기에 뒤틀린 소울젬을 넣어라"
+
+#: 74188
+#, fuzzy
+msgctxt "74188"
+msgid "Increases your health by <mag> points."
+msgstr "체력 <mag>점 증가."
+
+#: 74261
+#, fuzzy
+msgctxt "74261"
+msgid "Magicka regenerates <mag>% faster."
+msgstr "매지카 재생이 <mag>% 빨라집니다."
+
+#: 74290
+#, fuzzy
+msgctxt "74290"
+msgid "Stamina regenerates <mag>% faster."
+msgstr "지구력 재생이 <mag>% 빨라집니다."
+
+#: 74300
+#, fuzzy
+msgctxt "74300"
+msgid "Health regenerates <mag>% faster."
+msgstr "체력 재생이 <mag>% 빨라집니다."
+
+#: 74382
+#, fuzzy
+msgctxt "74382"
+msgid "Weapons and armor can be improved <mag>% better."
+msgstr "무기와 방어구 성능이 <mag>% 향상됩니다."
+
+#: 74426
+#, fuzzy
+msgctxt "74426"
+msgid "Increases your Magicka by <mag> points."
+msgstr "매지카 <mag>점 증가."
+
+#: 74437
+#, fuzzy
+msgctxt "74437"
+msgid "Created potions are <mag>% more powerful."
+msgstr "제조한 물약이 <mag>% 더 강력해집니다."
+
+#: 74449
+#, fuzzy
+msgctxt "74449"
+msgid "Increases your stamina by <mag> points."
+msgstr "지구력 <mag>점 증가."
+
+#: 74579
+msgctxt "74579"
+msgid "A blast from Wabbajack with an unpredictable effect. "
+msgstr ""
+
+#: 74620
+msgctxt "74620"
+msgid "Character menu is not available."
+msgstr ""
+
+#: 74933
+msgctxt "74933"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 74959
+msgctxt "74959"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 75018
+msgctxt "75018"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 75206
+#, fuzzy
+msgctxt "75206"
+msgid "Summons a Dremora for <dur> seconds."
+msgstr "<dur>초간 드레모라 소환."
+
+#: 75218
+#, fuzzy
+msgctxt "75218"
+msgid "Summon Dremora"
+msgstr "드레모라 소환"
+
+#: 75374
+msgctxt "75374"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75377
+msgctxt "75377"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75378
+msgctxt "75378"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75456
+#, fuzzy
+msgctxt "75456"
+msgid "I've purchased Honeyside."
+msgstr "허니사이드를 구입했다."
